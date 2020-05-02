@@ -26,7 +26,7 @@ My Artefact is a publication by Bart Hughes, "Trepanation the cure for psychosis
 | **Medium** | Book
 | **Materials** | Paper, Typewriter
 | **Date** | 1970
-|[Cover "Trepanation the cure for psychosis"](https://user-images.githubusercontent.com/62172137/80868552-b3a55d80-8c9b-11ea-9c2c-a14de109ef44.jpg)| "Trepanation the cure for psychosis" is a publication by Bart Hughes, published in 1970 in Amsterdam. The 40 page publication is approximately in Din A 5 format and contains the author's collected knowledge about trepanation and related research, theories and thoughts, an interview with Bart Hughes and five poems. The 38 pages of the publication are typed on relatively light, thin paper and bound together with brackets. The cover is heavier paper on which the title is handwritten in capital letters in the upper third with felt pen.
+|![Cover "Trepanation the cure for psychosis"](https://user-images.githubusercontent.com/62172137/80868552-b3a55d80-8c9b-11ea-9c2c-a14de109ef44.jpg)| "Trepanation the cure for psychosis" is a publication by Bart Hughes, published in 1970 in Amsterdam. The 40 page publication is approximately in Din A 5 format and contains the author's collected knowledge about trepanation and related research, theories and thoughts, an interview with Bart Hughes and five poems. The 38 pages of the publication are typed on relatively light, thin paper and bound together with brackets. The cover is heavier paper on which the title is handwritten in capital letters in the upper third with felt pen.
 
 
 
