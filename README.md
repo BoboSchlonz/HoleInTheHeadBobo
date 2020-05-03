@@ -1,6 +1,6 @@
 
 
-[<img src="Documentation/img/cover_img.png" width="100%">](#)
+[<img src="https://user-images.githubusercontent.com/62172137/80919312-9ccd3c80-8d69-11ea-9524-b182febe324b.jpg" width="100%">](#)
 # Hole in the Head
 
 ### Table of Contents
