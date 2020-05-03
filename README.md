@@ -68,7 +68,7 @@ Please include a general description of the role of transcoding in your project.
 ### Digitalisation of the book
 Only a very small ammount of the written book is digitalized. It was not published in large numbers and there is no source to digitally find this book. My aim was to make it accessable online. I wanted to keep the original feeling of a book, So I cleaned scanned pages of the book up and made the pages better readable.
 
-
+[<img src="https://user-images.githubusercontent.com/62172137/80924599-1f65f400-8d8a-11ea-8833-b68350c8b860.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
 
 
 You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc). 
