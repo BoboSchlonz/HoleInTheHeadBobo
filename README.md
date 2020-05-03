@@ -1,6 +1,6 @@
 
 [<img src="Documentation/img/cover_img.png" width="100%">](#)
-# HoleInTheHeadBobo
+# Hole in the Head
 
 ### Table of Contents
 1. [Artefact](#Artefact)
@@ -51,6 +51,8 @@ The greatest advocate of trepanation for non-medical purposes is a Dutchman name
 ### Bart Hughes
 Bart Hughes studied medicine, like his father, but never graduated because he failed an exam. Huges had long been interested in trepanation as a method to overcome psychological problems and reach a higher level of consciousness. The theory was based on the concept that an infant's supposedly higher state of consciousness is related to its unsealed skull, which allows the brain to expand freely and thus the cerebral blood flow and metabolism. As we grow older, the bones of the skull grow together and the flow is restricted, additionally due to our upright posture. Huges successfully trepaned himself with an electric drill on 6 January 1965. He affirmed the beneficial effects were immediate: his consciousness was sharpened and his neuroses were overcome. 
 ![Bart Hughes trepanating himself](https://user-images.githubusercontent.com/62172137/80914017-16a0fe00-8d49-11ea-8879-03ca3a3f315d.jpg)
+
+![Bart Hughes trepanating himself](https://user-images.githubusercontent.com/62172137/80914021-1e60a280-8d49-11ea-8012-9c37654e08d9.jpg)
 
 He began to preach about trepanation and started publishing documents about it. His first publication was a scroll, named "The Mechanism of Brainbloodvolume ('BBV')" (also known as "Homo Sapiens Correctus") in 1964. In this he explained his theory, that because of mans upright position, the sealed cranial sutures and the fact that blood is heavier than cerebrospinal fluid, the brailbloodvolume decreases. This leads to a slowed down brainmetabolism and diminishing of creativity, originality and youth. In his theory, trepanation could be used to enhance brain functionality by balancing the proportion of blood and cerebral spinal fluid. He also introduces several other methods to increase cerebral blood flow, such as jumping, the transition from a hot tub to a cold one, yoga headstand or the use of psychoactive drugs ("psychovitamins"), with Trepanation allowing a lasting increase in blood volume and restoring pulsation and metabolism as a result of increased cranial compliance. 
 The publication "Trepanation the cure for psychosis" which was publicated in 1970 was another 
