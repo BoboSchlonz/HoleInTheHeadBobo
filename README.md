@@ -30,15 +30,27 @@ My Artefact is a publication by Bart Hughes, "Trepanation the cure for psychosis
 
 
 
-# Research (H1)
+# History of Trepanation
 
-This section consolidates the background research, context and any relevant information regarding your research **into** the artefact.
+Trepanation, the act of drilling a hole into one’s skull, is an old surgical procedure, perhaps the first one performed frequently, dating back 7,000 to 10,000 years. The operation is well documented in Europe, Africa, Asia and Meso- and South America. In ancient cultures it was performed for alleged mystical or religious reasons (e.g. demonic possession), but also to treat insanity, severe headaches and other chronic conditions. It is estimated that in some populations up to 6% of people were trepaned. <sup>[[1]](#footnote-1)</sup> The procedure is still performed today, for both medical and non-medical reasons. 
 
-## Research Sub-Heading (H2)
-Its important to give a clear structure to your Readme. Please use the document structure provided by markdown, so think of Headings, Sub-headings, text, bold/italic, lists (bullets and numbered), tables etc. You can also include some linked footnotes like this. <sup>[[1]](#footnote-1)</sup>
 
-### Research Sub-sub-heading (H3)
-The H3 heading is useful to define specific subsections within the H2 section. If you are in doubt about information structure, take a look at different wikipedia articles for reference. 
+## Trepanation in different cultures
+
+There is much speculation as to why ancient civilizations used trepanation as it was performed without head trauma - and still is. However, it is almost certain that all those who practiced it did so because they somehow connected the brain with behavior. Some anthropologists suspect that trepanation was performed as part of tribal or superstitious rituals. Other researchers believe that the procedure was used to treat diseases such as headaches, epilepsy, hydrocephalus and mental disorders. These were probably attributed to possession by evil demons, so that a hole in the skull would have provided an escape opportunity for demons. Some suspect that trepanation was used specifically to treat skull fractures with depression, and there is historical evidence that it was used for medical reasons. The reasons for trepanning and the instruments used for the procedure vary over time and from culture to culture.
+
+The first and second specimen of a trepned skull where found in France in 1685 ans 1816. These first findings 
+Not much attention was paid to these first finds, the holes in the skull where assumed to be battle wounds.
+But many later findings of individual trepanned skulls or mass graves with up to 40 trepanned skulls pointed to the fact that the holes were man-made.
+
+## Trepanation in the 1960s and today
+
+Today, doctors still routinely use trepanation for traumatic brain injuries. In the 1960s and 1970s a great interest in methods for "opening the mind" and increasing perception and insight developed. Mostly this was tried pharmacologically, with LSD, marijuana, peyote and other hallucinogens. However, a much smaller group chose (additionally) trepanation, a more definitive approach in response to this need. Trepanation to improve brain function is still performed on dozens of people today. In fact, there are institutions that facilitate access to it and promote research on this topic. Current interest in trepanation exists in both North America and Europe. 
+The greatest advocate of trepanation for non-medical purposes is a Dutchman named Bart Hughes, who claims that the procedure can be used to achieve a higher state of consciousness. 
+
+### Bart Hughes
+Bart Hughes studied medicine, like his father, but never graduated because he failed an exam. Huges had long been interested in trepanation as a method to overcome psychological problems and reach a higher level of consciousness. The theory was based on the concept that an infant's supposedly higher state of consciousness is related to its unsealed skull, which allows the brain to expand freely and thus the cerebral blood flow and metabolism. As we grow older, the bones of the skull grow together and the flow is restricted, additionally due to our upright posture.  Methods that increase cerebral blood flow, such as jumping, the transition from a hot tub to a cold one, yoga headstand or the use of psychoactive drugs only temporarily reverse this problem. Trepanation would allow a lasting increase in blood volume and restore pulsation and metabolism as a result of increased cranial compliance. This would lead to a higher state of perception and conscience - although perhaps not as intense as that induced by pharmacological methods. Huges successfully trepaned himself with an electric drill on 6 January 1965. He affirmed the beneficial effects were immediate: his consciousness was sharpened and his neuroses were overcome. He began to preach about trepanation and started publishing documents about it. 
+
 
 # Transcoding
 Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below. 
@@ -100,5 +112,6 @@ You might have a nice conclusive observation to share at the end :)
 ## Bibliography
 Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work. 
 
-<a name="footnote-1">**[1]**</a>: Look at this little referenced footnote over here. You can look up different text formats for referencing books, online articles, films etc. 
+<a name="footnote-1">**[1]**</a>: An illustrated history of trepanation (2008), https://scienceblogs.com/neurophilosophy/2008/01/24/an-illustrated-history-of-trep
+<a name="footnote-2">**[2]**</a>:  Missios, S. (2007). Hippocrates, Galen, and the uses of trepanation in the ancient classical world. Neurosurgical Focus, 23(1):E:11, 1-9.
 
