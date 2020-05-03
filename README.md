@@ -50,21 +50,28 @@ The greatest advocate of trepanation for non-medical purposes is a Dutchman name
 
 ### Bart Hughes
 Bart Hughes studied medicine, like his father, but never graduated because he failed an exam. Huges had long been interested in trepanation as a method to overcome psychological problems and reach a higher level of consciousness. The theory was based on the concept that an infant's supposedly higher state of consciousness is related to its unsealed skull, which allows the brain to expand freely and thus the cerebral blood flow and metabolism. As we grow older, the bones of the skull grow together and the flow is restricted, additionally due to our upright posture. Huges successfully trepaned himself with an electric drill on 6 January 1965. He affirmed the beneficial effects were immediate: his consciousness was sharpened and his neuroses were overcome. 
+
 ![Bart Hughes trepanating himself](https://user-images.githubusercontent.com/62172137/80914017-16a0fe00-8d49-11ea-8879-03ca3a3f315d.jpg)
 
-![Bart Hughes trepanating himself](https://user-images.githubusercontent.com/62172137/80914021-1e60a280-8d49-11ea-8012-9c37654e08d9.jpg)
 
 He began to preach about trepanation and started publishing documents about it. His first publication was a scroll, named "The Mechanism of Brainbloodvolume ('BBV')" (also known as "Homo Sapiens Correctus") in 1964. In this he explained his theory, that because of mans upright position, the sealed cranial sutures and the fact that blood is heavier than cerebrospinal fluid, the brailbloodvolume decreases. This leads to a slowed down brainmetabolism and diminishing of creativity, originality and youth. In his theory, trepanation could be used to enhance brain functionality by balancing the proportion of blood and cerebral spinal fluid. He also introduces several other methods to increase cerebral blood flow, such as jumping, the transition from a hot tub to a cold one, yoga headstand or the use of psychoactive drugs ("psychovitamins"), with Trepanation allowing a lasting increase in blood volume and restoring pulsation and metabolism as a result of increased cranial compliance. 
-The publication "Trepanation the cure for psychosis" which was publicated in 1970 was another 
+The publication "Trepanation the cure for psychosis" which was publicated in 1970 was another collection if his ideas and a complete overview on how to expand ones mind through trepanation and how to prevent or treat psychosis with it.
+
+
+![Bart Hughes next to his scroll](https://user-images.githubusercontent.com/62172137/80914021-1e60a280-8d49-11ea-8012-9c37654e08d9.jpg)
 
 # Transcoding
 Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below. 
 
 ## Transcoding No. 1
-### Description
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
+### Digitalisation of the book
+Only a very small ammount of the written book is digitalized. It was not published in large numbers and there is no source to digitally find this book. My aim was to make it accessable online. I wanted to keep the original feeling of a book, So I cleaned scanned pages of the book up and made the pages better readable.
+
+
+
 
 You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc). 
+
 
 ### Methods
 Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
@@ -82,6 +89,9 @@ Mention the tools that you used or made (if and when relevant).
 
 ### Results
 Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
+
+## Transcoding 2
+### New Cover Design
 
 ## Transcoding Tool 
 ### Description
