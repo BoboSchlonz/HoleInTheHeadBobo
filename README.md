@@ -30,8 +30,11 @@ My Artefact is a publication by Bart Hughes, "Trepanation the cure for psychosis
 |![Cover "Trepanation the cure for psychosis"](https://user-images.githubusercontent.com/62172137/80868552-b3a55d80-8c9b-11ea-9c2c-a14de109ef44.jpg)| "Trepanation the cure for psychosis" is a publication by Bart Hughes, published in 1970 in Amsterdam. The 40 page publication is approximately in Din A 5 format and contains the author's collected knowledge about trepanation and related research, theories and thoughts, an interview with Bart Hughes and five poems. The 38 pages of the publication are typed on relatively light, thin paper and bound together with brackets. The cover is heavier paper on which the title is handwritten in capital letters in the upper third with felt pen.
 
 
-
-# History of Trepanation
+# Research
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+## History of Trepanation
 
 Trepanation, the act of drilling a hole into one’s skull, is an old surgical procedure, perhaps the first one performed frequently, dating back 7,000 to 10,000 years. The operation is well documented in Europe, Africa, Asia and Meso- and South America. In ancient cultures it was performed for alleged mystical or religious reasons (e.g. demonic possession), but also to treat insanity, severe headaches and other chronic conditions. It is estimated that in some populations up to 6% of people were trepaned. <sup>[[1]](#footnote-1)</sup> The procedure is still performed today, for both medical and non-medical reasons. 
 
@@ -61,41 +64,54 @@ The publication "Trepanation the cure for psychosis" which was publicated in 197
 
 ![Bart Hughes next to his scroll](https://user-images.githubusercontent.com/62172137/80914021-1e60a280-8d49-11ea-8012-9c37654e08d9.jpg)
 
+### Amanda Feilding
+
+### Joseph Mellen
+
+## Significance Today
+During my research, I expanded my research and started to focus on the unrecognized abilites of the human body. In western society and medicine there is a strong separation of the perception of body and mind, if something like "mind" is perceived at all.  Only very slowly there is a change in the perception of the brain as a kind of computer and the body as a peripheral device. 
+Approaching the human as a logic and rational thing limits the possibilies of healing, self-awareness and contact to the self. The approach of Bart Hughes and the people around him is still interesting because it shifts the boundaries of the body and questions taboos. 
+
+### Psychedelics in therapeutical settings
+
+### Breathwork, Meditation and Yoga
+
+
 # Transcoding
-Please include a general description of the role of transcoding in your project. Using the H2 headings below, you can specify individual Transcoding experiments. Think about your motivations in transcoding, and mention the role of tools (also those made during the assignment). This gives some direction to the reader about what they will read in more detail below. 
+My aim or approach to the transcoding is for one, the processing and visualisation of the found material of Bart Hughes' theories. I also want to focus on the unrecognized abilities of the human body, whether it is survival with a hole in the skull, or getting high on endogenous drugs through breathing techniques. 
 
 ## Transcoding No. 1
 ### Digitalisation of the book
 Only a very small ammount of the written book is digitalized. It was not published in large numbers and there is no source to digitally find this book. My aim was to make it accessable online. I wanted to keep the original feeling of a book, So I cleaned scanned pages of the book up and made the pages better readable.
 
+
+### Methods
+Scanning the pages of the book and edit them in a way they are readable in Photoshop.
+
+### Results
 [<img src="https://user-images.githubusercontent.com/62172137/80924599-1f65f400-8d8a-11ea-8833-b68350c8b860.gif" width="50%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/files/4571532/Trepanation_thecureforpsychosisSmall.pdf)
 
 
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc). 
 
 
-### Methods
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.  
-
-With some HTML tags you can do simple styling in markdown, for example:
-
-    <width="50%">
-[<img src="https://j.gifs.com/ROJr3z.gif" width="50%">](https://youtu.be/o2rmmqxC4NU)
-
-Remember to include the url link to jump to the full media, of course! 
-
-
-### Tools 
-Mention the tools that you used or made (if and when relevant). 
-
-### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
 
 ## Transcoding 2
 ### New Cover Design
 
+### Tools 
+
+
+### Results
+Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
+
+## Transcoding 3
+### Poster 
+
+
 ## Transcoding Tool 
-### Description
+### Guided breathing Ritual
+A live guided breathing ritual
+
 You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc. 
 
 ### Aims
