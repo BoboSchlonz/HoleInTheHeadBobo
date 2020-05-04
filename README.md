@@ -31,9 +31,13 @@ My Artefact is a publication by Bart Hughes, "Trepanation the cure for psychosis
 
 
 # Research
-Solarized dark             |  Solarized Ocean
+
+  Further collected material from Bart Hughes' private cooection  |      .      
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/62172137/80954652-157dd880-8dfe-11ea-9a25-f5eda0419ee1.jpg)  |  ![](https://user-images.githubusercontent.com/62172137/80954516-d0f23d00-8dfd-11ea-8a5e-ccb8651b452e.jpg)
+<img src="https://user-images.githubusercontent.com/62172137/80954652-157dd880-8dfe-11ea-9a25-f5eda0419ee1.jpg" width="70%">  |  ![](https://user-images.githubusercontent.com/62172137/80954516-d0f23d00-8dfd-11ea-8a5e-ccb8651b452e.jpg)
+<img src="https://user-images.githubusercontent.com/62172137/80954537-da7ba500-8dfd-11ea-87f1-9ef3d8c27e0d.jpg" width="150%">  |  <img src="https://user-images.githubusercontent.com/62172137/80954557-e49da380-8dfd-11ea-9b50-1af6d4f27061.jpg" width="150%">
+<img src="https://user-images.githubusercontent.com/62172137/80953433-cb93f300-8dfb-11ea-8470-dc0393d9f8b8.jpg" width="70%">  |  <img src="https://user-images.githubusercontent.com/62172137/80953465-e1a1b380-8dfb-11ea-80ba-bfcb08ab99f4.jpg" width="70%">
+<img src="https://user-images.githubusercontent.com/62172137/80954562-e5ced080-8dfd-11ea-9eee-46f56fa4e4b6.jpg" width="30%">  |  ![](https://user-images.githubusercontent.com/62172137/80953450-d5b5f180-8dfb-11ea-93df-59f640207d68.jpg)
 ## History of Trepanation
 
 Trepanation, the act of drilling a hole into one’s skull, is an old surgical procedure, perhaps the first one performed frequently, dating back 7,000 to 10,000 years. The operation is well documented in Europe, Africa, Asia and Meso- and South America. In ancient cultures it was performed for alleged mystical or religious reasons (e.g. demonic possession), but also to treat insanity, severe headaches and other chronic conditions. It is estimated that in some populations up to 6% of people were trepaned. <sup>[[1]](#footnote-1)</sup> The procedure is still performed today, for both medical and non-medical reasons. 
