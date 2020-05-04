@@ -112,7 +112,7 @@ Some of your transcoding experiments may have smaller outcome sketches like imag
 
 ## Transcoding Tool 
 ### Guided breathing Ritual
-A live guided breathing ritual
+
 
 You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc. 
 
