@@ -63,9 +63,9 @@ Bart Hughes studied medicine, like his father, but never graduated because he fa
 He began to preach about trepanation and started publishing documents about it. His first publication was a scroll, named "The Mechanism of Brainbloodvolume ('BBV')" (also known as "Homo Sapiens Correctus") in 1964. In this he explained his theory, that because of mans upright position, the sealed cranial sutures and the fact that blood is heavier than cerebrospinal fluid, the brailbloodvolume decreases. This leads to a slowed down brainmetabolism and diminishing of creativity, originality and youth. In his theory, trepanation could be used to enhance brain functionality by balancing the proportion of blood and cerebral spinal fluid. He also introduces several other methods to increase cerebral blood flow, such as jumping, the transition from a hot tub to a cold one, yoga headstand or the use of psychoactive drugs ("psychovitamins"), with Trepanation allowing a lasting increase in blood volume and restoring pulsation and metabolism as a result of increased cranial compliance. 
 The publication "Trepanation the cure for psychosis" which was publicated in 1970 was another collection if his ideas and a complete overview on how to expand ones mind through trepanation and how to prevent or treat psychosis with it.
 
-
+<img src="https://user-images.githubusercontent.com/62172137/80958385-3f86c900-8e05-11ea-95da-e2da81338083.jpg" width="20%">
 ![Bart Hughes next to his scroll](https://user-images.githubusercontent.com/62172137/80914021-1e60a280-8d49-11ea-8012-9c37654e08d9.jpg)
-<img src="https://user-images.githubusercontent.com/62172137/80958385-3f86c900-8e05-11ea-95da-e2da81338083.jpg" width="50%">
+
 
 ### Amanda Feilding
 
