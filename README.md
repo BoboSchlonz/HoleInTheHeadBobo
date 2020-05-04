@@ -32,7 +32,7 @@ My Artefact is a publication by Bart Hughes, "Trepanation the cure for psychosis
 
 # Research
 
-  Further collected material from Bart Hughes' private cooection  |      .      
+  Further collected material from Bart Hughes' private collection  |      .      
 :-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/62172137/80954652-157dd880-8dfe-11ea-9a25-f5eda0419ee1.jpg" width="70%">  |  ![](https://user-images.githubusercontent.com/62172137/80954516-d0f23d00-8dfd-11ea-8a5e-ccb8651b452e.jpg)
 <img src="https://user-images.githubusercontent.com/62172137/80954537-da7ba500-8dfd-11ea-87f1-9ef3d8c27e0d.jpg" width="150%">  |  <img src="https://user-images.githubusercontent.com/62172137/80954557-e49da380-8dfd-11ea-9b50-1af6d4f27061.jpg" width="150%">
@@ -47,17 +47,15 @@ Trepanation, the act of drilling a hole into one’s skull, is an old surgical p
 
 There is much speculation as to why ancient civilizations used trepanation as it was performed without head trauma - and still is. However, it is almost certain that all those who practiced it did so because they somehow connected the brain with behavior. Some anthropologists suspect that trepanation was performed as part of tribal or superstitious rituals. Other researchers believe that the procedure was used to treat diseases such as headaches, epilepsy, hydrocephalus and mental disorders. These were probably attributed to possession by evil demons, so that a hole in the skull would have provided an escape opportunity for demons. Some suspect that trepanation was used specifically to treat skull fractures with depression, and there is historical evidence that it was used for medical reasons. The reasons for trepanning and the instruments used for the procedure vary over time and from culture to culture.
 
-The first and second specimen of a trepned skull where found in France in 1685 ans 1816. These first findings 
-Not much attention was paid to these first finds, the holes in the skull where assumed to be battle wounds.
-But many later findings of individual trepanned skulls or mass graves with up to 40 trepanned skulls pointed to the fact that the holes were man-made.
+The first and second specimen of a trepaned skull where found in France in 1685 and 1816. Not much attention was paid to these first finds, the holes in the skull where assumed to be battle wounds. But many later findings of individual trepanned skulls or mass graves with up to 40 trepanned skulls pointed to the fact that the holes were man-made.
 
 ## Trepanation in the 1960s and today
 
-Today, doctors still routinely use trepanation for traumatic brain injuries. In the 1960s and 1970s a great interest in methods for "opening the mind" and increasing perception and insight developed. Mostly this was tried pharmacologically, with LSD, marijuana, peyote and other hallucinogens. However, a much smaller group chose (additionally) trepanation, a more definitive approach in response to this need. Trepanation to improve brain function is still performed on dozens of people today. In fact, there are institutions that facilitate access to it and promote research on this topic. Current interest in trepanation exists in both North America and Europe. 
+Today, doctors still routinely use trepanation for traumatic brain injuries. In the 1960s and 1970s a great interest in methods for "opening the mind" and increasing perception and insight developed. Mostly this was tried pharmacologically, with LSD, marijuana, peyote and other hallucinogens. However, a much smaller group chose (additionally) trepanation, a more definitive approach in response to this need. Trepanation to improve brain function is still performed on dozens of people today. 
 The greatest advocate of trepanation for non-medical purposes is a Dutchman named Bart Hughes, who claims that the procedure can be used to achieve a higher state of consciousness. 
 
 ### Bart Hughes
-Bart Hughes studied medicine, like his father, but never graduated because he failed an exam. Huges had long been interested in trepanation as a method to overcome psychological problems and reach a higher level of consciousness. The theory was based on the concept that an infant's supposedly higher state of consciousness is related to its unsealed skull, which allows the brain to expand freely and thus the cerebral blood flow and metabolism. As we grow older, the bones of the skull grow together and the flow is restricted, additionally due to our upright posture. Huges successfully trepaned himself with an electric drill on 6 January 1965. He affirmed the beneficial effects were immediate: his consciousness was sharpened and his neuroses were overcome. 
+Bart Hughes studied medicine, like his father, but never graduated because he failed an exam. Huges had long been interested in trepanation as a method to overcome psychological problems and reach a higher level of consciousness. His theory was based on the concept that an infant's supposedly higher state of consciousness is related to its unsealed skull, which allows the brain to expand freely and thus the cerebral blood flow and metabolism. As we grow older, the bones of the skull grow together and the flow is restricted, additionally due to our upright posture. Huges successfully trepaned himself with an electric drill on 6 January 1965. He affirmed the beneficial effects were immediate: his consciousness was sharpened and his neuroses were overcome. 
 
 ![Bart Hughes trepanating himself](https://user-images.githubusercontent.com/62172137/80914017-16a0fe00-8d49-11ea-8879-03ca3a3f315d.jpg)
 
@@ -67,6 +65,7 @@ The publication "Trepanation the cure for psychosis" which was publicated in 197
 
 
 ![Bart Hughes next to his scroll](https://user-images.githubusercontent.com/62172137/80914021-1e60a280-8d49-11ea-8012-9c37654e08d9.jpg)
+<img src="https://user-images.githubusercontent.com/62172137/80958385-3f86c900-8e05-11ea-95da-e2da81338083.jpg" width="50%">
 
 ### Amanda Feilding
 
