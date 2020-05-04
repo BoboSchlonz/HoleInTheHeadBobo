@@ -31,9 +31,9 @@ My Artefact is a publication by Bart Hughes, "Trepanation the cure for psychosis
 
 
 # Research
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/62172137/80954652-157dd880-8dfe-11ea-9a25-f5eda0419ee1.jpg)  |  ![](https://user-images.githubusercontent.com/62172137/80954516-d0f23d00-8dfd-11ea-8a5e-ccb8651b452e.jpg)
 ## History of Trepanation
 
 Trepanation, the act of drilling a hole into one’s skull, is an old surgical procedure, perhaps the first one performed frequently, dating back 7,000 to 10,000 years. The operation is well documented in Europe, Africa, Asia and Meso- and South America. In ancient cultures it was performed for alleged mystical or religious reasons (e.g. demonic possession), but also to treat insanity, severe headaches and other chronic conditions. It is estimated that in some populations up to 6% of people were trepaned. <sup>[[1]](#footnote-1)</sup> The procedure is still performed today, for both medical and non-medical reasons. 
