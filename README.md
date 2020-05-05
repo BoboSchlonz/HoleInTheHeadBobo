@@ -25,17 +25,17 @@ My Artefact is a publication by Bart Hughes, "Trepanation the cure for psychosis
 | **Medium** | Book
 | **Materials** | Paper, Typewriter
 | **Date** | 1970
-|![Cover "Trepanation the cure for psychosis"](https://user-images.githubusercontent.com/62172137/80868552-b3a55d80-8c9b-11ea-9c2c-a14de109ef44.jpg)| "Trepanation the cure for psychosis" is a publication by Bart Hughes, published in 1970 in Amsterdam. The 40 page publication is approximately in Din A 5 format and contains the author's collected knowledge about trepanation and related research, theories and thoughts, an interview with Bart Hughes and five poems. The 38 pages of the publication are typed on relatively light, thin paper and bound together with brackets. The cover is heavier paper on which the title is handwritten in capital letters in the upper third with felt pen.
+|![Cover "Trepanation the cure for psychosis"](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/artefact.jpg)| "Trepanation the cure for psychosis" is a publication by Bart Hughes, published in 1970 in Amsterdam. The 40 page publication is approximately in Din A 5 format and contains the author's collected knowledge about trepanation and related research, theories and thoughts, an interview with Bart Hughes and five poems. The 38 pages of the publication are typed on relatively light, thin paper and bound together with brackets. The cover is heavier paper on which the title is handwritten in capital letters in the upper third with felt pen.
 
 
 # Research
 
   Further collected material from Bart Hughes' private collection  |      .      
 :-------------------------:|:-------------------------:
-<img src="https://user-images.githubusercontent.com/62172137/80954652-157dd880-8dfe-11ea-9a25-f5eda0419ee1.jpg" width="70%">  |  ![](https://user-images.githubusercontent.com/62172137/80954516-d0f23d00-8dfd-11ea-8a5e-ccb8651b452e.jpg)
-<img src="https://user-images.githubusercontent.com/62172137/80954537-da7ba500-8dfd-11ea-87f1-9ef3d8c27e0d.jpg" width="150%">  |  <img src="https://user-images.githubusercontent.com/62172137/80954557-e49da380-8dfd-11ea-9b50-1af6d4f27061.jpg" width="150%">
-<img src="https://user-images.githubusercontent.com/62172137/80953433-cb93f300-8dfb-11ea-8470-dc0393d9f8b8.jpg" width="70%">  |  <img src="https://user-images.githubusercontent.com/62172137/80953465-e1a1b380-8dfb-11ea-80ba-bfcb08ab99f4.jpg" width="70%">
-<img src="https://user-images.githubusercontent.com/62172137/80954562-e5ced080-8dfd-11ea-9eee-46f56fa4e4b6.jpg" width="30%">  |  ![](https://user-images.githubusercontent.com/62172137/80953450-d5b5f180-8dfb-11ea-93df-59f640207d68.jpg)
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image10.jpg" width="70%">  |  ![](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image2.jpg)
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image4.jpg" width="150%">  |  <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image6.jpg" width="150%">
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image7.jpg" width="70%">  |  <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image11.jpg" width="70%">
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image9.jpg" width="30%">  |  ![](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image8.jpg)
 ## History of Trepanation
 
 Trepanation, the act of drilling a hole into one’s skull, is an old surgical procedure, perhaps the first one performed frequently, dating back 7,000 to 10,000 years. The operation is well documented in Europe, Africa, Asia and Meso- and South America. In ancient cultures it was performed for alleged mystical or religious reasons (e.g. demonic possession), but also to treat insanity, severe headaches and other chronic conditions. It is estimated that in some populations up to 6% of people were trepaned. <sup>[[1]](#footnote-1)</sup> The procedure is still performed today, for both medical and non-medical reasons. 
@@ -55,13 +55,13 @@ The greatest advocate of trepanation for non-medical purposes is a Dutchman name
 ### Bart Hughes
 Bart Hughes studied medicine, like his father, but never graduated because he failed an exam. Huges had long been interested in trepanation as a method to overcome psychological problems and reach a higher level of consciousness. His theory was based on the concept that an infant's supposedly higher state of consciousness is related to its unsealed skull, which allows the brain to expand freely and thus the cerebral blood flow and metabolism. As we grow older, the bones of the skull grow together and the flow is restricted, additionally due to our upright posture. Huges successfully trepaned himself with an electric drill on 6 January 1965. He affirmed the beneficial effects were immediate: his consciousness was sharpened and his neuroses were overcome. 
 
-![Bart Hughes trepanating himself](https://user-images.githubusercontent.com/62172137/80914017-16a0fe00-8d49-11ea-8879-03ca3a3f315d.jpg)
+![Bart Hughes trepanating himself](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/huges-trepanation1b-219x300.jpg)
 
 
 He began to preach about trepanation and started publishing documents about it. His first publication was a scroll, named "The Mechanism of Brainbloodvolume ('BBV')" (also known as "Homo Sapiens Correctus") in 1964. In this he explained his theory, that because of mans upright position, the sealed cranial sutures and the fact that blood is heavier than cerebrospinal fluid, the brailbloodvolume decreases. This leads to a slowed down brainmetabolism and diminishing of creativity, originality and youth. In his theory, trepanation could be used to enhance brain functionality by balancing the proportion of blood and cerebral spinal fluid. He also introduces several other methods to increase cerebral blood flow, such as jumping, the transition from a hot tub to a cold one, yoga headstand or the use of psychoactive drugs ("psychovitamins"), with Trepanation allowing a lasting increase in blood volume and restoring pulsation and metabolism as a result of increased cranial compliance. 
 The publication "Trepanation the cure for psychosis" which was publicated in 1970 was another collection if his ideas and a complete overview on how to expand ones mind through trepanation and how to prevent or treat psychosis with it.
 
-<img src="https://user-images.githubusercontent.com/62172137/80958385-3f86c900-8e05-11ea-95da-e2da81338083.jpg" width="15%"> |  ![Bart Hughes next to his scroll](https://user-images.githubusercontent.com/62172137/80914021-1e60a280-8d49-11ea-8012-9c37654e08d9.jpg)
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/scroll.jpg" width="15%"> |  ![Bart Hughes next to his scroll](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/hugesscroll.jpg)
 
 
 ### Amanda Feilding
