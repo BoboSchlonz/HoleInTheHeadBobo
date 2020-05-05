@@ -1,4 +1,4 @@
-[<img src="" width="100%">](#)
+[<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/cover.jpg" width="100%">](#)
 # Hole in the Head
 
 ### Table of Contents
