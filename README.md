@@ -2,16 +2,16 @@
 # Hole in the Head
 
 ### Table of Contents
-1. [Artefact](#Artefact)
-    1. [Metadata](#Metadata)
-2. [Research](#Research-h1)
-3. [Transcoding](#Transcoding)
- 
-    2. [Transcoding Tool](#Transcoding-tool)
-4. [Reflection](#Reflection)
-5. [Outcome](#Outcome)
-6. [Conclusion](#Conclusion)
-7. [Bibliography](#Bibliography) 
+1. [Artefact](#artefact)
+    1. [Metadata](#metadata)
+2. [Research](#research-h1)
+3. [Transcoding](#transcoding)
+
+    2. [Transcoding Tool](#transcoding-tool)
+4. [Reflection](#reflection)
+5. [Outcome](#outcome)
+6. [Conclusion](#conclusion)
+7. [Bibliography](#bibliography) 
 
 # Artefact
 My Artefact is a publication by Bart Hughes, "Trepanation the cure for psychosis", published by the Foundation For Independent Thinking in 1970 in Amsterdam. In this publication Bart Hughes summarizes and presents all his studies, experiences and research on trepanation and self-trepanation.
