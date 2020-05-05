@@ -89,7 +89,7 @@ Only a very small ammount of the written book is digitalized. It was not publish
 Scanning the pages of the book and edit them in a way they are readable in Photoshop.
 
 ### Results
-[<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/gif/80924599-1f65f400-8d8a-11ea-8833-b68350c8b860.gif" width="50%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/documentation/pdf/Trepanation_thecureforpsychosisSmall.pdf)
+[<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/gif/80924599-1f65f400-8d8a-11ea-8833-b68350c8b860.gif" width="50%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/pdf/Trepanation_thecureforpsychosisSmall.pdf)
 
 
 
