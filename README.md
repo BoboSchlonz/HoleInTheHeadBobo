@@ -13,10 +13,10 @@
 6. [Conclusion](#conclusion)
 7. [Bibliography](#bibliography) 
 
-# Artefact
+## Artefact
 My Artefact is a publication by Bart Hughes, "Trepanation the cure for psychosis", published by the Foundation For Independent Thinking in 1970 in Amsterdam. In this publication Bart Hughes summarizes and presents all his studies, experiences and research on trepanation and self-trepanation.
 
-## Metadata
+### Metadata
 | Tag | Data |  
 |--|--|
 **IISG Call Number** | [CSD Bro 2197/5](https://search.iisg.amsterdam/Record/947157)
@@ -28,7 +28,7 @@ My Artefact is a publication by Bart Hughes, "Trepanation the cure for psychosis
 |![Cover "Trepanation the cure for psychosis"](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/artefact.jpg)| "Trepanation the cure for psychosis" is a publication by Bart Hughes, published in 1970 in Amsterdam. The 40 page publication is approximately in Din A 5 format and contains the author's collected knowledge about trepanation and related research, theories and thoughts, an interview with Bart Hughes and five poems. The 38 pages of the publication are typed on relatively light, thin paper and bound together with brackets. The cover is heavier paper on which the title is handwritten in capital letters in the upper third with felt pen.
 
 
-# Research
+## Research
 
   Further collected material from Bart Hughes' private collection  |      .      
 :-------------------------:|:-------------------------:
@@ -36,25 +36,25 @@ My Artefact is a publication by Bart Hughes, "Trepanation the cure for psychosis
 <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image4.jpg" width="150%">  |  <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image6.jpg" width="150%">
 <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image7.jpg" width="70%">  |  <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image11.jpg" width="70%">
 <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image9.jpg" width="30%">  |  ![](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image8.jpg)
-## History of Trepanation
+### History of Trepanation
 
 Trepanation, the act of drilling a hole into one’s skull, is an old surgical procedure, perhaps the first one performed frequently, dating back 7,000 to 10,000 years. The operation is well documented in Europe, Africa, Asia and Meso- and South America. In ancient cultures it was performed for alleged mystical or religious reasons (e.g. demonic possession), but also to treat insanity, severe headaches and other chronic conditions. It is estimated that in some populations up to 6% of people were trepaned. <sup>[[1]](#footnote-1)</sup> The procedure is still performed today, for both medical and non-medical reasons. 
 
 
-## Trepanation in different cultures
+### Trepanation in different cultures
 
 There is much speculation as to why ancient civilizations used trepanation as it was performed without head trauma - and still is. However, it is almost certain that all those who practiced it did so because they somehow connected the brain with behavior. Some anthropologists suspect that trepanation was performed as part of tribal or superstitious rituals. Other researchers believe that the procedure was used to treat diseases such as headaches, epilepsy, hydrocephalus and mental disorders. These were probably attributed to possession by evil demons, so that a hole in the skull would have provided an escape opportunity for demons. Some suspect that trepanation was used specifically to treat skull fractures with depression, and there is historical evidence that it was used for medical reasons. The reasons for trepanning and the instruments used for the procedure vary over time and from culture to culture.
 
 The first and second specimen of a trepaned skull where found in France in 1685 and 1816. Not much attention was paid to these first finds, the holes in the skull where assumed to be battle wounds. But many later findings of individual trepanned skulls or mass graves with up to 40 trepanned skulls pointed to the fact that the holes were man-made.
 
-## Trepanation in the 1960s and today
+### Trepanation in the 1960s and today
 
 Today, doctors still routinely use trepanation for traumatic brain injuries. In the 1960s and 1970s a great interest in methods for "opening the mind" and increasing perception and insight developed. Mostly this was tried pharmacologically, with LSD, marijuana, peyote and other hallucinogens. However, a much smaller group chose (additionally) trepanation, a more definitive approach in response to this need. Trepanation to improve brain function is still performed on dozens of people today. 
 The greatest advocate of trepanation for non-medical purposes is a Dutchman named Bart Hughes, who claims that the procedure can be used to achieve a higher state of consciousness. 
 
-### Bart Hughes
-Bart Hughes was a scientist, a medical student, the son and grandson of doctors and is said to have discovered the mechanism behind getting high in 1962. He passed away without recognition in 2004.
-Bart was first given acid in 1958 as a medical student as part of a psychiatric experiment. His wife was friends with a lot of bohemians and he gradually moved into their company. He started smoking pot, having first established, that it is not toxic and that he did not become addicted.He became a enthusiastic smoker and began advocating it to his medical colleagues. When he and his wife had a daughter, they called her Mari-Juana. His advocacy of marijuana towards his medical colleagues gained him a bad reputation and later his flat was raided by the police looking for weed. This was reported in the newspapers, which did nothing to improve his image. A top professor of the psychiatry university of Amsterdam who previously asked him to become his assistant, now told him there was no place for him to practice in the whole city. 
+#### Bart Hughes
+Bart Hughes was a scientist, a medical student, the son and grandson of doctors and is said to have discovered the mechanism behind getting high in 1962. 
+Bart was first given acid in 1958 as a medical student as part of a psychiatric experiment. Gradually moving in the company of the Bohemians of that time, he started smoking pot, having first established, that it is not toxic and that he did not become addicted. He became an enthusiastic smoker and began advocating it to his medical colleagues. When he and his wife had a daughter, they called her Maria Juana. His advocacy of marijuana towards his medical colleagues gained him a bad reputation and later his flat was raided by the police looking for weed. This was reported in the newspapers, which did nothing to improve his image. A top professor of the psychiatry university of Amsterdam who previously asked him to become his assistant, now told him there was no place for him to practice in the whole city. <sup>[[2]](#footnote-2)</sup>
 Barts father always told him that he regretted practicing medicine, because his patients would not what he recommended (like becoming a vegetarian, taking cold showers in the morning, exercise..).
 He said if he could start over, he would become a writer. At this point in life Bart decided to give up within the profession and become an independent teacher and do his science on his own. He also never graduated because he failed an exam. 
 
@@ -69,48 +69,53 @@ The publication "Trepanation the cure for psychosis" which was publicated in 197
 <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/scroll.jpg" width="15%"> |  ![Bart Hughes next to his scroll](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/hugesscroll.jpg)
 
 
-### Amanda Feilding
-Amanda Feilding met Bart Hughes in 1966 and he got her interested in trepanation. She said: “Bart quite changed my viewpoint, opening up doors of science and biology to me. He was very charismatic, we had a great love affair, and I was curious to see if what he said was true.”. <sup>[[3]](#footnote-3)</sup> After meeting Bart she spent four years loking for a surgeon to trepan her. She had no success with that search and ended up trepaning herself in 1970, she was 27 years old. To dissasociate herself from her body and the procedure she decided to film the process and treat the whole procedure like an art project. This film is titled "Heartbeat in the Brain", shows her shaving her hairline, putting on a floral shower cap to keep back her remaining hair, making a mask out of sunglasses and medical tape, injecting herself with a local anesthetic, and peeling back a patch of skin with a scalpel. With a look of determined, almost trance-like concentration, Feilding then holds a dentist’s drill to her head and, pressing the foot pedal that operates it, begins to push it into the frontal bone. Her self-trepanation is successfull and only takes about 20 minutes. The film ends with her bandaging her head and mopping up the blood from her face with water and cotton wool. She changes out of her bloody tunic into a colorful Moroccan kaftan and wraps a shimmering gold turban around her head to disguise the bandages. Looking glamorous, bohemian, and elated, she smiles goodbye to the camera and heads off to a fancy-dress party. 
+#### Amanda Feilding
+Amanda Feilding met Bart Hughes in 1966 and he got her interested in trepanation. She said: *“Bart quite changed my viewpoint, opening up doors of science and biology to me. He was very charismatic, we had a great love affair, and I was curious to see if what he said was true.”* <sup>[[3]](#footnote-3)</sup> After meeting Bart she spent four years loking for a surgeon to trepan her. She had no success with that search and ended up trepaning herself in 1970, she was 27 years old. To dissasociate herself from her body and the procedure she decided to film the process and treat the whole procedure like an art project. This film is titled "Heartbeat in the Brain", shows her shaving her hairline, putting on a floral shower cap to keep back her remaining hair, making a mask out of sunglasses and medical tape, injecting herself with a local anesthetic, and peeling back a patch of skin with a scalpel. With a look of determined, almost trance-like concentration, Feilding then holds a dentist’s drill to her head and, pressing the foot pedal that operates it, begins to push it into the frontal bone. Her self-trepanation is successfull and only takes about 20 minutes. The film ends with her bandaging her head and mopping up the blood from her face with water and cotton wool. She changes out of her bloody tunic into a colorful Moroccan kaftan and wraps a shimmering gold turban around her head to disguise the bandages. Looking glamorous, bohemian, and elated, she smiles goodbye to the camera and heads off to a fancy-dress party. 
 Over the years, she only showed the movie to small, selected audiences, as she is aware that this operation is dangerous and better performed by a doctor and has risks. The reason for filming the procedure was not to glamourize it, but to dissasociate herself from her body by treating the operation like an art project. 
 
 Amanda Feilding is still alive today and she is still active in the fields of drug research, psychoactive drugs and consciousness raising. In 1998 she founded the Foundation to Further Consciousness, later renamed to the Beckley Foundation, a non-profit foundation that initiates, leads and supports neuroscientific and clinical research on the effects of psychoactive substances on the brain and perception. She co-authored over 50 papers published in peer-reviewed journals. <sup>[[4]](#footnote-4)</sup> The central aim of her research is to find new treatment options for mental illnesses such as depression, anxiety and addiction, and to explore methods to increase well-being and creativity. 
 She stood for Parliament as an independent candidate in her local constituency of Chelsea, England in 1979 and 1983, campaigning on the sole platform that trepanation should be freely available on the National Health Service. 
 
 
-Feilding is a supporter of the procedure to this day, althogh she is open to doubt: "If it is a placebo effect, I’d love to know, then one can just draw a line under that subject and see it as a kind of cultural artwork. I still have a burning ambition to discover what the truth is. But from my own experience I think there is a change, otherwise I wouldn’t be bothering about it forty years later.” <sup>[[3]](#footnote-3)</sup> 
+Feilding is a supporter of the procedure to this day, althogh she is open to doubt: *"If it is a placebo effect, I’d love to know, then one can just draw a line under that subject and see it as a kind of cultural artwork. I still have a burning ambition to discover what the truth is. But from my own experience I think there is a change, otherwise I wouldn’t be bothering about it forty years later.”* <sup>[[3]](#footnote-3)</sup> 
 
-### Joseph Mellen
+#### Joseph Mellen
+Joseph or Joey Mellen first met Bart Huges in Ibiza and became a close friend and follower. After some years talking  about trepanation, he decided to act. In fact, he tried to trepan himself four times. The first two attempts had been unsuccessfull, he had no previous medical expierience and used a manual corkscrew bought in a surgical store. He also took some LSD during both attempts. After the first unsuccessful attempt, he asked for the help of Amanda Feilding, but at the final moment he fainted. He finally succeeded in completing the trepanation in his third attempt soon after.<sup>[[5]](#footnote-5)</sup> 
+*"After some time there was an ominous sounding schlurp and the sound of bubbling. I drew the trepan out and the gurgling continued. It sounded like air bubbles running under the skull as they were pressed out. I looked at the trepan and there was a bit of bone in it. At last! On closer inspection I saw that the disc of bone was much deeper on one side than on the other. Obviously the trepan had not been straight and had gone through at one point only, then the piece of bone had snapped off and come out. I was reluctant to start drilling again for fear of damaging the brain membranes with the deeper part while I was cutting through the rest or of breaking off a splinter. If only I had an electric drill it would have been so much simpler. Amanda was sure I was through. There seemed no other explanation for the schlurping noises I decided to call it a day. At the time I thought that any hole would do, no matter what size. I bandaged up my head and cleared away the mess."* <sup>[[6]](#footnote-6)</sup> 
+He was still doubting if he had really broken through and, if so, whether the hole was big enough to restore pulsation to his brain. So in 1970, he made a second hole, this time with an electric drill. *"This time I was not in any doubt. The drill head went at least an inch deep through the hole. A great gush of blood followed my withdrawal of the drill. In the mirror I could see the blood in the hole rising and falling with the pulsation of the brain."*<sup>[[6]](#footnote-6)</sup> 
+The result was all he had hoped for. During the next four hours he felt his spirits rising higher until he reached a state of freedom and serenity which he claims, has been with him ever since.
+Joey Mellen wrote a book about his experiences called "Bore Hole" that was reissued in 2015.<sup>[[6]](#footnote-6)</sup> 
 
 
-## Significance Today
+### Significance Today
 During my research, I expanded my research and started to focus on the unrecognized abilites of the human body. In western society and medicine there is a strong separation of the perception of body and mind, if something like "mind" is perceived at all.  Only very slowly there is a change in the perception of the brain as a kind of computer and the body as a peripheral device. 
 Approaching the human as a logic and rational thing limits the possibilies of healing, self-awareness and contact to the self. The approach of Bart Hughes and the people around him is still interesting because it shifts the boundaries of the body and questions taboos. 
 
-### Psychedelics in therapeutical settings
+#### Psychedelics in therapeutical settings
 
-### Breathwork, Meditation and Yoga
+#### Breathwork, Meditation and Yoga
 
 
-# Transcoding
+## Transcoding
 My aim or approach to the transcoding is for one, the processing and visualisation of the found material of Bart Hughes' theories. I also want to focus on the unrecognized abilities of the human body, whether it is survival with a hole in the skull, or getting high on endogenous drugs through breathing techniques. 
 
-## Transcoding No. 1
-### Digitalisation of the book
+### Transcoding No. 1
+#### Digitalisation of the book
 Only a very small ammount of the written book is digitalized. It was not published in large numbers and there is no source to digitally find this book. My aim was to make it accessable online. I wanted to keep the original feeling of a book, So I cleaned scanned pages of the book up and made the pages better readable.
 
 
-### Methods
+#### Methods
 Scanning the pages of the book and edit them in a way they are readable in Photoshop.
 
-### Results
+#### Results
 [<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/gif/80924599-1f65f400-8d8a-11ea-8833-b68350c8b860.gif" width="50%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/pdf/Trepanation_thecureforpsychosisSmall.pdf)
 
 
 
 
 
-## Transcoding 2
-### New Cover Design
+### Transcoding 2
+#### New Cover Design
 
 ### Tools 
 
@@ -159,6 +164,9 @@ You might have a nice conclusive observation to share at the end :)
 Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work. 
 
 <a name="footnote-1">**[1]**</a>: An illustrated history of trepanation (2008), https://scienceblogs.com/neurophilosophy/2008/01/24/an-illustrated-history-of-trep
-<a name="footnote-2">**[2]**</a>:  Missios, S. (2007). Hippocrates, Galen, and the uses of trepanation in the ancient classical world. Neurosurgical Focus, 23(1):E:11, 1-9.
+<a name="footnote-2">**[2]**</a>: Joey Mellen - The Psychedelic Science of Bart Hughes (2015) https://www.youtube.com/watch?v=XlCPuSlzBiU
+
 <a name="footnote-3">**[3]**</a>: Christopher Turner, Like a hole in the head, the trepanation-state Turner http://cabinetmagazine.org/issues/28/turner.php
 <a name="footnote-4">**[4]**</a>: https://beckleyfoundation.org/amanda-feilding/
+<a name="footnote-5">**[5]**</a>: "The People With Holes In Their Heads" from "Eccentric Lives & Peculiar Notions", John Michell, (1999) http://www.ee0r.com/trepan.html
+<a name="footnote-6">**[6]**</a>: "Bore Hole", Joe Mellen, Strange Attractor Press (2015)
