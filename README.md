@@ -111,6 +111,8 @@ Apart from these studies and research centres, the positive effect of psychedeli
 #### Breathwork, Meditation and Yoga
 
 
+
+
 ## Transcoding
 My aim or approach to the transcoding is for one, the processing and visualisation of the found material of Bart Hughes' theories. I also want to focus on the unrecognized abilities of the human body, whether it is survival with a hole in the skull, or getting high on endogenous drugs through breathing techniques. 
 
