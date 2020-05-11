@@ -100,6 +100,12 @@ During my research, I expanded my research and started to focus on the unrecogni
 Approaching the human as a logic and rational thing limits the possibilies of healing, self-awareness and contact to the self. The approach of Bart Hughes and the people around him is still interesting because it shifts the boundaries of the body and questions taboos. 
 
 #### Psychedelics in therapeutical settings
+In Western cultures, psychedelic drugs have a negative image in society as a whole and are rather attributed to partying. 
+But there is a further interest in research developing around this topic. Bbesides the already mentioned Beckley Foundation, which was founded by Amanda Feilding, there are several other research groups in Europe and America, which study the effects and safety of psychedelics on mental health conditions. It is essential to mention the [Imperial Centre for Psychedelic Research](https://www.imperial.ac.uk/psychedelic-research-centre/), which is the first research group to gain a solid level of stature within a major academic institution, the Imperial College London.
+It was the first Centre worldwide to research the effects of LSd on the brain by using modern brain imaging and the frist to study psilocybin – the active compound in magic mushrooms – for treating severe depression. These studies have laid the groundwork for larger trials that are now taking place around the world. Other pioneering work from the group includes breakthrough neuroimaging research with psilocybin, MDMA and DMT (the psychoactive compounds found in ecstasy and ayahuasca respectively).<sup>[[7]](#footnote-7)</sup> 
+They published many papers and articles showing studies that psychedelic therapy is very promising for treating some very serious mental health conditions such as depression and post-traumatic stress syndrome (PTSD), showing a change in personality structure and brain complexity, which can be helpful for patients suffering from treatment‐resistant depression (TRD)<sup>[[8]](#footnote-8)</sup> <sup>[[9]](#footnote-9)</sup> 
+
+Apart from these studies and research centres, the positive effect of psychedelics can be experienced in therapeutical settings legally in some countries (like the Netherlands or Jamaica, where Magif truffels are legal). These retreats usually offer a 2-4 day programme and a supervised intake of psychedelics. Teams offering those structures consist often of a broad range of people with focus on psychotherapy, body-psychotherapy, traditional chinese medicine, trauma, voice, shamanic traditions, biology, yoga, breath work and music. 
 
 
 #### Breathwork, Meditation and Yoga
@@ -175,7 +181,10 @@ Of course, as with all research work please include a good bibliography with lin
 <a name="footnote-1">**[1]**</a>: An illustrated history of trepanation (2008), https://scienceblogs.com/neurophilosophy/2008/01/24/an-illustrated-history-of-trep
 <a name="footnote-2">**[2]**</a>: Joey Mellen - The Psychedelic Science of Bart Hughes (2015) https://www.youtube.com/watch?v=XlCPuSlzBiU
 
-<a name="footnote-3">**[3]**</a>: Christopher Turner, Like a hole in the head, the trepanation-state Turner http://cabinetmagazine.org/issues/28/turner.php
+<a name="footnote-3">**[3]**</a>: Christopher Turner, Like a hole in the head, the trepanation-state  http://cabinetmagazine.org/issues/28/turner.php
 <a name="footnote-4">**[4]**</a>: https://beckleyfoundation.org/amanda-feilding/
 <a name="footnote-5">**[5]**</a>: "The People With Holes In Their Heads" from "Eccentric Lives & Peculiar Notions", John Michell, (1999) http://www.ee0r.com/trepan.html
 <a name="footnote-6">**[6]**</a>: "Bore Hole", Joe Mellen, Strange Attractor Press (2015)
+<a name="footnote-7">**[7]**</a>: https://www.imperial.ac.uk/psychedelic-research-centre/research/
+<a name="footnote-8">**[8]**</a>: D. Erritzoe, L. Roseman, M. M. Nour, K. MacLean, M. Kaelen, D. J. Nutt, R. L. Carhart‐Harris, Effects of psilocybin therapy on personality structure (2018) https://onlinelibrary.wiley.com/doi/full/10.1111/acps.12904
+<a name="footnote-9">**[9]**</a>: Gregory Scott, Robin L Carhart-Harris, Psychedelics as a treatment for disorders of consciousness (2018) https://academic.oup.com/nc/article/2019/1/niz003/5475888
