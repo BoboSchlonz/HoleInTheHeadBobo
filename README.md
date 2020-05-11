@@ -93,6 +93,7 @@ Approaching the human as a logic and rational thing limits the possibilies of he
 
 #### Psychedelics in therapeutical settings
 
+
 #### Breathwork, Meditation and Yoga
 
 
