@@ -82,9 +82,13 @@ Feilding is a supporter of the procedure to this day, althogh she is open to dou
 #### Joseph Mellen
 Joseph or Joey Mellen first met Bart Huges in Ibiza and became a close friend and follower. After some years talking  about trepanation, he decided to act. In fact, he tried to trepan himself four times. The first two attempts had been unsuccessfull, he had no previous medical expierience and used a manual corkscrew bought in a surgical store. He also took some LSD during both attempts. After the first unsuccessful attempt, he asked for the help of Amanda Feilding, but at the final moment he fainted. He finally succeeded in completing the trepanation in his third attempt soon after.<sup>[[5]](#footnote-5)</sup> 
 *"After some time there was an ominous sounding schlurp and the sound of bubbling. I drew the trepan out and the gurgling continued. It sounded like air bubbles running under the skull as they were pressed out. I looked at the trepan and there was a bit of bone in it. At last! On closer inspection I saw that the disc of bone was much deeper on one side than on the other. Obviously the trepan had not been straight and had gone through at one point only, then the piece of bone had snapped off and come out. I was reluctant to start drilling again for fear of damaging the brain membranes with the deeper part while I was cutting through the rest or of breaking off a splinter. If only I had an electric drill it would have been so much simpler. Amanda was sure I was through. There seemed no other explanation for the schlurping noises I decided to call it a day. At the time I thought that any hole would do, no matter what size. I bandaged up my head and cleared away the mess."* <sup>[[6]](#footnote-6)</sup> 
+
 He was still doubting if he had really broken through and, if so, whether the hole was big enough to restore pulsation to his brain. So in 1970, he made a second hole, this time with an electric drill. *"This time I was not in any doubt. The drill head went at least an inch deep through the hole. A great gush of blood followed my withdrawal of the drill. In the mirror I could see the blood in the hole rising and falling with the pulsation of the brain."*<sup>[[6]](#footnote-6)</sup> 
 The result was all he had hoped for. During the next four hours he felt his spirits rising higher until he reached a state of freedom and serenity which he claims, has been with him ever since.
+
 Joey Mellen wrote a book about his experiences called "Bore Hole" that was reissued in 2015.<sup>[[6]](#footnote-6)</sup> 
+
+[Statement Joe Mellen](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/pdf/StatementJoey.pdf)
 
 
 ### Significance Today
