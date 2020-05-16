@@ -66,7 +66,7 @@ His discoveries where never recognized in the profession. In that time, the the 
 He began to preach about trepanation and started publishing documents about it. His first publication was a scroll, named "The Mechanism of Brainbloodvolume ('BBV')" (also known as "Homo Sapiens Correctus") in 1964. In this he explained his theory, that because of mans upright position, the sealed cranial sutures and the fact that blood is heavier than cerebrospinal fluid, the brailbloodvolume decreases. This leads to a slowed down brainmetabolism and diminishing of creativity, originality and youth. In his theory, trepanation could be used to enhance brain functionality by balancing the proportion of blood and cerebral spinal fluid. He also introduces several other methods to increase cerebral blood flow, such as jumping, the transition from a hot tub to a cold one, yoga headstand or the use of psychoactive drugs ("psychovitamins"), with Trepanation allowing a lasting increase in blood volume and restoring pulsation and metabolism as a result of increased cranial compliance. 
 The publication "Trepanation the cure for psychosis" which was publicated in 1970 was another collection if his ideas and a complete overview on how to expand ones mind through trepanation and how to prevent or treat psychosis with it.
 
-<img src="https://raw.githubusercontent/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/scroll.jpg" width="15%"> |  ![Bart Hughes next to his scroll](https://raw.githubusercontent.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/hugesscroll.jpg)
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/scroll.jpg" width="15%"> |  ![Bart Hughes next to his scroll](https://raw.github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/hugesscroll.jpg)
 
 
 #### Amanda Feilding
@@ -109,8 +109,10 @@ Apart from these studies and research centres, the positive effect of psychedeli
 
 
 #### Breathwork, Meditation and Yoga
+We need explanations and proofs. Humans are striving to expand their consciousness, to get high in some way. There are various methods to influence the body and mind itself with external influences. But besides the extreme method of trepanation and other methods to change the actual state by external factors, there are also tools for this, which do not require any external influences, but which take place within the individual. In the West we find it hard to believe in anything if it’s not proven in research. Science makes things real.
+There are a vast number of methods to reach the mind, brain and body that have been practiced for thousands of years. Little by little there is also interest in the West and there is a growing open-mindedness towards these methods. Meanwhile, there is also a lot of research and studies on yoga, cold immersion, breathing techniques and natural movement, all of which are available completely free of costs and which only need your body to be performed. 
 
-
+When the mind is calm and happy, everything else falls into place. To reach the mind we can hack into our immune system and consciously influence our stress response. 
 
 
 ## Transcoding
@@ -135,7 +137,7 @@ Scanning the pages of the book and edit them in a way they are readable in Photo
 #### New Cover Design
 
 ### Tools 
-
+InDesign
 
 ### Results
 Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
@@ -143,36 +145,40 @@ Some of your transcoding experiments may have smaller outcome sketches like imag
 ## Transcoding 3
 ### Poster 
 
+#### Aims
+showing the variety of possibilities to mind-expansion
 
-## Transcoding Tool 
-### Guided breathing Ritual
+#### Results
 
-[Video](https://www.dropbox.com/s/bxlmyx9uuz6rjka/Breathing.mp4?dl=0)
+
+## Transcoding Tool
+
 You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc. 
 
-### Aims
-Include the main aims or intentions behind making the tool, and what it is used for. 
+#### Aims
+I wanted to make something that one can experience. I would have loved to do this in a performance/a performed ritual that one can join and experience live. But with the new situation, I had to adjust a bit, so that still everyone who wants to can join, but not face to face.
 
-### Methods
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.   
+#### Methods
+Filming, Premiere Pro
 
-### Results
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here. 
-
+#### Results
+A guided breathing-exercise. It's possible to use the video I made at any time to experience the breathwork-method and it stands for what I might have been doing if the school wasn't closed. 
+ 
 ### Source Links
 Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
  
 
-# Reflection
+## Reflection
+
 You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below. 
 
-# Outcomes
-This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible. 
+## Outcome:  Guided breathing ritual
 
-### Outcome Links
-Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored. 
+I wanted to make something that one can experience. I would have loved to do this in a performance/a performed ritual that one can join and experience live. But with the new situation, I had to adjust a bit, so that still everyone who wants to can join, but not face to face.
 
-This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).   
+
+### Outcome Link
+
 
 # Conclusion 
 You might have a nice conclusive observation to share at the end :) 
