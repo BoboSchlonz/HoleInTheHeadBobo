@@ -152,13 +152,12 @@ showing the variety of possibilities to mind-expansion
 
 ## Transcoding Tool
 
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc. 
 
 #### Aims
 I wanted to make something that one can experience. I would have loved to do this in a performance/a performed ritual that one can join and experience live. But with the new situation, I had to adjust a bit, so that still everyone who wants to can join, but not face to face.
 
 #### Methods
-Filming, Premiere Pro
+Filming, Premiere Pro, 
 
 #### Results
 A guided breathing-exercise. It's possible to use the video I made at any time to experience the breathwork-method and it stands for what I might have been doing if the school wasn't closed. 
