@@ -14,7 +14,7 @@
 7. [Bibliography](#bibliography) 
 
 ## Artefact
-My Artefact is a publication by Bart Hughes, "Trepanation the cure for psychosis", published by the Foundation For Independent Thinking in 1970 in Amsterdam. In this publication Bart Hughes summarizes and presents all his studies, experiences and research on trepanation and self-trepanation.
+A publication written by Bart Hughes, "Trepanation the cure for psychosis", published by the Foundation For Independent Thinking in 1970 in Amsterdam. In this book Bart Hughes summarizes and presents all his studies, experiences and research on trepanation and self-trepanation.
 
 ### Metadata
 | Tag | Data |  
@@ -118,8 +118,7 @@ When the mind is calm and happy, everything else falls into place. To reach the 
 ## Transcoding
 My aim or approach to the transcoding is for one, the processing and visualisation of the found material of Bart Hughes' theories. I also want to focus on the unrecognized abilities of the human body, whether it is survival with a hole in the skull, or getting high on endogenous drugs through breathing techniques. 
 
-### Transcoding No. 1
-#### Digitalisation of the book
+### Digitalisation of the book
 Only a very small ammount of the written book is digitalized. It was not published in large numbers and there is no source to digitally find this book. My aim was to make it accessable online. I wanted to keep the original feeling of a book, So I cleaned scanned pages of the book up and made the pages better readable.
 
 
@@ -131,19 +130,19 @@ Scanning the pages of the book and edit them in a way they are readable in Photo
 
 
 
+### New Cover Design
 
+#### Aims
+Giving this interesting topic and research a nicer design
 
-### Transcoding 2
-#### New Cover Design
-
-### Tools 
+#### Tools 
 InDesign
 
-### Results
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.  
+#### Results
+  [<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/TrepanationBookMockup Kopie.jpg" width="50%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/pdf/Cover.pdf)
 
-## Transcoding 3
-### Poster 
+### Transcoding 3
+#### Poster 
 
 #### Aims
 showing the variety of possibilities to mind-expansion
