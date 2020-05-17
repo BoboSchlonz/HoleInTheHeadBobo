@@ -2,16 +2,18 @@
 # Hole in the Head
 
 ### Table of Contents
-1. [Artefact](#artefact)
-    1. [Metadata](#metadata)
-2. [Research](#research-h1)
-3. [Transcoding](#transcoding)
-
-    2. [Transcoding Tool](#transcoding-tool)
-4. [Reflection](#reflection)
-5. [Outcome](#outcome)
-6. [Conclusion](#conclusion)
-7. [Bibliography](#bibliography) 
+1. [Artefact](#Artefact)
+    1. [Metadata](#Metadata)
+2. [Research](#Research)
+3. [Transcoding](#Transcoding)
+    1. [Transcoding No. 1](#Transcoding-no-1)
+    2. [Transcoding No. 2](#Transcoding-no-2)
+    3. [Transcoding No. 3](#Transcoding-no-3)
+    4. [Transcoding Tool](#Transcoding-tool)
+4. [Reflection](#Reflection)
+5. [Outcome](#Outcome)
+6. [Conclusion](#Conclusion)
+7. [Bibliography](#Bibliography) 
 
 ## Artefact
 A publication written by Bart Huges, "Trepanation the cure for psychosis", published by the Foundation For Independent Thinking in 1970 in Amsterdam. In this book Bart Huges summarizes and presents all his studies, experiences and research on trepanation and self-trepanation.
@@ -113,44 +115,51 @@ There are a vast number of methods to reach the mind, brain and body that have b
 
 When the mind is calm and happy, everything else falls into place. To reach the mind we can hack into our immune system and consciously influence our stress response. 
 
+## Transcoding
 
-## Transcoding 1
 My aim or approach to the transcoding is for one, the processing and visualisation of the found material of Bart Huges' theories. I also want to focus on the unrecognized abilities of the human body, whether it is survival with a hole in the skull, or getting high on endogenous drugs through breathing techniques. 
 
-### Digitalisation of the book
-Only a very small ammount of the written book is digitalized. It was not published in large numbers and there is no source to digitally find this book. My aim was to make it accessable online. I wanted to keep the original feeling of a book, So I cleaned scanned pages of the book up and made the pages better readable. Then I used optical character recognition to transcode the text and cleaned it up manually.
+### Transcoding No. 1
 
+#### Digitalisation of the book
+Only a very small ammount of the written book is digitalized. It was not published in large numbers and there is no source to digitally find this book. My aim was to make it accessable online. 
 
 #### Methods
+I cleaned scanned pages of the book up and made the pages better readable. Then I used optical character recognition to transcode the text and cleaned it up manually.
+
+#### Tools
 Photoshop, OCR
 
 #### Results
 [<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/gif/80924599-1f65f400-8d8a-11ea-8833-b68350c8b860.gif" width="50%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/pdf/Trepanation-TheCureOfPsychosisTextverbessert.pdf)
 
-## Transcoding 2
-### New Cover Design
+### Transcoding No. 2
 
-#### Aims
+#### New Cover Design
 Giving this interesting topic and research a nicer design
 
+#### Method
+Using all kinds of found material that I archived when visiting the IISG and went through the collection that was interesting for me. Collaging
+
 #### Tools 
-InDesign
+InDesign, Photoshop
 
 #### Results
   [<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/TrepanationBookMockup Kopie.jpg" width="50%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/pdf/Cover.pdf)
 
-### Transcoding 3
-#### Poster 
+### Transcoding No. 3
 
-#### Aims
-showing the variety of possibilities to mind-expansion
+#### Poster 
+Showing the variety of possibilities to mind-expansion through a personality-type-style poster
+
+#### Tools
+Indesign, Illustrator
 
 #### Results
 
  [<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster.jpg" width="30%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster.jpg) | [<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster2.jpg" width="30%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster2.jpg)
 
 ## Transcoding Tool
-
 
 #### Aims
 Following the studies of Bart Huges, there are several methods to increase the amount of blood in the brain. Trepanation is supposed to be one, that is permanent, others can be experienced without extreme measures.
@@ -159,13 +168,14 @@ I wanted to make something that one can experience. I would have loved to do thi
 #### Methods
 Filming, Premiere Pro, Breathwork
 
-#### Results
+#### Result
 A video to transport the experience and make it accessable at any time. 
  
-### Source Links
+### Source Link
 I used techniques and research that I found on [Systemanatura](https://www.systemanatura.com/en/research/).
 The Method in the video is a breathing technique from [Wim Hof](https://www.wimhofmethod.com/), as it is one that enriches the blood with a lot of oxygen which gives a quite quick effect on the body and brain.
 
+## Reflection
 
 ## Outcome:  Guided breathing ritual
 
@@ -175,7 +185,7 @@ I wanted to make something that one can experience. I would have loved to do thi
 
 [Breathwork Video](https://www.dropbox.com/s/geqdcay0lm6bb9c/Breathing.mp4?dl=0)
 
-# Conclusion 
+## Conclusion 
 
 ## Bibliography
 
