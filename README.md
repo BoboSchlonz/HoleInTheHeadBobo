@@ -114,21 +114,20 @@ There are a vast number of methods to reach the mind, brain and body that have b
 When the mind is calm and happy, everything else falls into place. To reach the mind we can hack into our immune system and consciously influence our stress response. 
 
 
-## Transcoding
+## Transcoding 1
 My aim or approach to the transcoding is for one, the processing and visualisation of the found material of Bart Huges' theories. I also want to focus on the unrecognized abilities of the human body, whether it is survival with a hole in the skull, or getting high on endogenous drugs through breathing techniques. 
 
 ### Digitalisation of the book
-Only a very small ammount of the written book is digitalized. It was not published in large numbers and there is no source to digitally find this book. My aim was to make it accessable online. I wanted to keep the original feeling of a book, So I cleaned scanned pages of the book up and made the pages better readable.
+Only a very small ammount of the written book is digitalized. It was not published in large numbers and there is no source to digitally find this book. My aim was to make it accessable online. I wanted to keep the original feeling of a book, So I cleaned scanned pages of the book up and made the pages better readable. Then I used optical character recognition to transcode the text and cleaned it up manually.
 
 
 #### Methods
-Scanning the pages of the book and edit them in a way they are readable in Photoshop.
+Photoshop, OCR
 
 #### Results
-[<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/gif/80924599-1f65f400-8d8a-11ea-8833-b68350c8b860.gif" width="50%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/pdf/Trepanation_thecureforpsychosisSmall.pdf)
+[<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/gif/80924599-1f65f400-8d8a-11ea-8833-b68350c8b860.gif" width="50%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/pdf/Trepanation-TheCureOfPsychosisTextverbessert.txt)
 
-
-
+## Transcoding 2
 ### New Cover Design
 
 #### Aims
@@ -177,7 +176,6 @@ I wanted to make something that one can experience. I would have loved to do thi
 [Breathwork Video](https://www.dropbox.com/s/geqdcay0lm6bb9c/Breathing.mp4?dl=0)
 
 # Conclusion 
-I'm  
 
 ## Bibliography
 
