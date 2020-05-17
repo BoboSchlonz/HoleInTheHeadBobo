@@ -148,6 +148,7 @@ showing the variety of possibilities to mind-expansion
 
 #### Results
 
+ [<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster.jpg" width="20%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster.jpg) | [<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster2.jpg" width="20%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster2.jpg)
 
 ## Transcoding Tool
 
