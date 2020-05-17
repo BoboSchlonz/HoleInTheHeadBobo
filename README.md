@@ -60,13 +60,12 @@ He said if he could start over, he would become a writer. At this point in life 
 
 His discoveries where never recognized in the profession. In that time, the the concept of expanded consciousness was unknown and not a subject that was studied. Huges had long been interested in trepanation as a method to overcome psychological problems and reach a higher level of consciousness. His theory was based on the concept that an infant's supposedly higher state of consciousness is related to its unsealed skull, which allows the brain to expand freely and thus the cerebral blood flow and metabolism. As we grow older, the bones of the skull grow together and the flow is restricted, additionally due to our upright posture. Huges successfully trepaned himself with an electric drill on 6 January 1965. He affirmed the beneficial effects were immediate: his consciousness was sharpened and his neuroses were overcome. 
 
-![Bart Huges trepanating himself](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/huges-trepanation1b-219x300.jpg)
-
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/huges-trepanation1b-219x300.jpg" width="35%"> 
 
 He began to preach about trepanation and started publishing documents about it. His first publication was a scroll, named "The Mechanism of Brainbloodvolume ('BBV')" (also known as "Homo Sapiens Correctus") in 1964. In this he explained his theory, that because of mans upright position, the sealed cranial sutures and the fact that blood is heavier than cerebrospinal fluid, the brailbloodvolume decreases. This leads to a slowed down brainmetabolism and diminishing of creativity, originality and youth. In his theory, trepanation could be used to enhance brain functionality by balancing the proportion of blood and cerebral spinal fluid. He also introduces several other methods to increase cerebral blood flow, such as jumping, the transition from a hot tub to a cold one, yoga headstand or the use of psychoactive drugs ("psychovitamins"), with Trepanation allowing a lasting increase in blood volume and restoring pulsation and metabolism as a result of increased cranial compliance. 
 The publication "Trepanation the cure for psychosis" which was publicated in 1970 was another collection if his ideas and a complete overview on how to expand ones mind through trepanation and how to prevent or treat psychosis with it.
 
-<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/scroll.jpg" width="15%"> |  ![Bart Huges next to his scroll](https://raw.github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/hugesscroll.jpg)
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/scroll.jpg" width="15%"> | <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/hugesscroll.jpg" width="50%"> 
 
 
 #### Amanda Feilding
