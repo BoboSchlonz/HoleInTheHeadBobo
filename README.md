@@ -185,7 +185,7 @@ I wanted to make something that one can experience. I would have loved to do thi
 
 [Breathwork Video](https://www.dropbox.com/s/geqdcay0lm6bb9c/Breathing.mp4?dl=0)
 
-## Conclusion 
+## Conclusion
 
 ## Bibliography
 
