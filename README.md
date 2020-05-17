@@ -14,7 +14,7 @@
 7. [Bibliography](#bibliography) 
 
 ## Artefact
-A publication written by Bart Hughes, "Trepanation the cure for psychosis", published by the Foundation For Independent Thinking in 1970 in Amsterdam. In this book Bart Hughes summarizes and presents all his studies, experiences and research on trepanation and self-trepanation.
+A publication written by Bart Huges, "Trepanation the cure for psychosis", published by the Foundation For Independent Thinking in 1970 in Amsterdam. In this book Bart Huges summarizes and presents all his studies, experiences and research on trepanation and self-trepanation.
 
 ### Metadata
 | Tag | Data |  
@@ -25,12 +25,12 @@ A publication written by Bart Hughes, "Trepanation the cure for psychosis", publ
 | **Medium** | Book
 | **Materials** | Paper, Typewriter
 | **Date** | 1970
-|![Cover "Trepanation the cure for psychosis"](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/artefact.jpg)| "Trepanation the cure for psychosis" is a publication by Bart Hughes, published in 1970 in Amsterdam. The 40 page publication is approximately in Din A 5 format and contains the author's collected knowledge about trepanation and related research, theories and thoughts, an interview with Bart Hughes and five poems. The 38 pages of the publication are typed on relatively light, thin paper and bound together with brackets. The cover is heavier paper on which the title is handwritten in capital letters in the upper third with felt pen.
+|![Cover "Trepanation the cure for psychosis"](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/artefact.jpg)| "Trepanation the cure for psychosis" is a publication by Bart Huges, published in 1970 in Amsterdam. The 40 page publication is approximately in Din A 5 format and contains the author's collected knowledge about trepanation and related research, theories and thoughts, an interview with Bart Huges and five poems. The 38 pages of the publication are typed on relatively light, thin paper and bound together with brackets. The cover is heavier paper on which the title is handwritten in capital letters in the upper third with felt pen.
 
 
 ## Research
 
-  Further collected material from Bart Hughes' private collection  |      .      
+  Further collected material from Bart Huges' private collection  |      .      
 :-------------------------:|:-------------------------:
 <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image10.jpg" width="70%">  |  ![](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image2.jpg)
 <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image4.jpg" width="150%">  |  <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/image6.jpg" width="150%">
@@ -50,27 +50,27 @@ The first and second specimen of a trepaned skull where found in France in 1685 
 ### Trepanation in the 1960s and today
 
 Today, doctors still routinely use trepanation for traumatic brain injuries. In the 1960s and 1970s a great interest in methods for "opening the mind" and increasing perception and insight developed. Mostly this was tried pharmacologically, with LSD, marijuana, peyote and other hallucinogens. However, a much smaller group chose (additionally) trepanation, a more definitive approach in response to this need. Trepanation to improve brain function is still performed on dozens of people today. 
-The greatest advocate of trepanation for non-medical purposes is a Dutchman named Bart Hughes, who claims that the procedure can be used to achieve a higher state of consciousness. 
+The greatest advocate of trepanation for non-medical purposes is a Dutchman named Bart Huges, who claims that the procedure can be used to achieve a higher state of consciousness. 
 
-#### Bart Hughes
-Bart Hughes was a scientist, a medical student, the son and grandson of doctors and is said to have discovered the mechanism behind getting high in 1962. 
+#### Bart Huges
+Bart Huges was a scientist, a medical student, the son and grandson of doctors and is said to have discovered the mechanism behind getting high in 1962. 
 Bart was first given acid in 1958 as a medical student as part of a psychiatric experiment. Gradually moving in the company of the Bohemians of that time, he started smoking pot, having first established, that it is not toxic and that he did not become addicted. He became an enthusiastic smoker and began advocating it to his medical colleagues. When he and his wife had a daughter, they called her Maria Juana. His advocacy of marijuana towards his medical colleagues gained him a bad reputation and later his flat was raided by the police looking for weed. This was reported in the newspapers, which did nothing to improve his image. A top professor of the psychiatry university of Amsterdam who previously asked him to become his assistant, now told him there was no place for him to practice in the whole city. <sup>[[2]](#footnote-2)</sup>
 Barts father always told him that he regretted practicing medicine, because his patients would not what he recommended (like becoming a vegetarian, taking cold showers in the morning, exercise..).
 He said if he could start over, he would become a writer. At this point in life Bart decided to give up within the profession and become an independent teacher and do his science on his own. He also never graduated because he failed an exam. 
 
 His discoveries where never recognized in the profession. In that time, the the concept of expanded consciousness was unknown and not a subject that was studied. Huges had long been interested in trepanation as a method to overcome psychological problems and reach a higher level of consciousness. His theory was based on the concept that an infant's supposedly higher state of consciousness is related to its unsealed skull, which allows the brain to expand freely and thus the cerebral blood flow and metabolism. As we grow older, the bones of the skull grow together and the flow is restricted, additionally due to our upright posture. Huges successfully trepaned himself with an electric drill on 6 January 1965. He affirmed the beneficial effects were immediate: his consciousness was sharpened and his neuroses were overcome. 
 
-![Bart Hughes trepanating himself](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/huges-trepanation1b-219x300.jpg)
+![Bart Huges trepanating himself](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/huges-trepanation1b-219x300.jpg)
 
 
 He began to preach about trepanation and started publishing documents about it. His first publication was a scroll, named "The Mechanism of Brainbloodvolume ('BBV')" (also known as "Homo Sapiens Correctus") in 1964. In this he explained his theory, that because of mans upright position, the sealed cranial sutures and the fact that blood is heavier than cerebrospinal fluid, the brailbloodvolume decreases. This leads to a slowed down brainmetabolism and diminishing of creativity, originality and youth. In his theory, trepanation could be used to enhance brain functionality by balancing the proportion of blood and cerebral spinal fluid. He also introduces several other methods to increase cerebral blood flow, such as jumping, the transition from a hot tub to a cold one, yoga headstand or the use of psychoactive drugs ("psychovitamins"), with Trepanation allowing a lasting increase in blood volume and restoring pulsation and metabolism as a result of increased cranial compliance. 
 The publication "Trepanation the cure for psychosis" which was publicated in 1970 was another collection if his ideas and a complete overview on how to expand ones mind through trepanation and how to prevent or treat psychosis with it.
 
-<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/scroll.jpg" width="15%"> |  ![Bart Hughes next to his scroll](https://raw.github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/hugesscroll.jpg)
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/scroll.jpg" width="15%"> |  ![Bart Huges next to his scroll](https://raw.github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/hugesscroll.jpg)
 
 
 #### Amanda Feilding
-Amanda Feilding met Bart Hughes in 1966 and he got her interested in trepanation. She said: *“Bart quite changed my viewpoint, opening up doors of science and biology to me. He was very charismatic, we had a great love affair, and I was curious to see if what he said was true.”* <sup>[[3]](#footnote-3)</sup> After meeting Bart she spent four years loking for a surgeon to trepan her. She had no success with that search and ended up trepaning herself in 1970, she was 27 years old. To dissasociate herself from her body and the procedure she decided to film the process and treat the whole procedure like an art project. This film is titled "Heartbeat in the Brain", shows her shaving her hairline, putting on a floral shower cap to keep back her remaining hair, making a mask out of sunglasses and medical tape, injecting herself with a local anesthetic, and peeling back a patch of skin with a scalpel. With a look of determined, almost trance-like concentration, Feilding then holds a dentist’s drill to her head and, pressing the foot pedal that operates it, begins to push it into the frontal bone. Her self-trepanation is successfull and only takes about 20 minutes. The film ends with her bandaging her head and mopping up the blood from her face with water and cotton wool. She changes out of her bloody tunic into a colorful Moroccan kaftan and wraps a shimmering gold turban around her head to disguise the bandages. Looking glamorous, bohemian, and elated, she smiles goodbye to the camera and heads off to a fancy-dress party. 
+Amanda Feilding met Bart Huges in 1966 and he got her interested in trepanation. She said: *“Bart quite changed my viewpoint, opening up doors of science and biology to me. He was very charismatic, we had a great love affair, and I was curious to see if what he said was true.”* <sup>[[3]](#footnote-3)</sup> After meeting Bart she spent four years loking for a surgeon to trepan her. She had no success with that search and ended up trepaning herself in 1970, she was 27 years old. To dissasociate herself from her body and the procedure she decided to film the process and treat the whole procedure like an art project. This film is titled "Heartbeat in the Brain", shows her shaving her hairline, putting on a floral shower cap to keep back her remaining hair, making a mask out of sunglasses and medical tape, injecting herself with a local anesthetic, and peeling back a patch of skin with a scalpel. With a look of determined, almost trance-like concentration, Feilding then holds a dentist’s drill to her head and, pressing the foot pedal that operates it, begins to push it into the frontal bone. Her self-trepanation is successfull and only takes about 20 minutes. The film ends with her bandaging her head and mopping up the blood from her face with water and cotton wool. She changes out of her bloody tunic into a colorful Moroccan kaftan and wraps a shimmering gold turban around her head to disguise the bandages. Looking glamorous, bohemian, and elated, she smiles goodbye to the camera and heads off to a fancy-dress party. 
 Over the years, she only showed the movie to small, selected audiences, as she is aware that this operation is dangerous and better performed by a doctor and has risks. The reason for filming the procedure was not to glamourize it, but to dissasociate herself from her body by treating the operation like an art project. 
 
 
@@ -97,7 +97,7 @@ Joey Mellen wrote a book about his experiences called "Bore Hole" that was reiss
 
 ### Significance Today
 During my research, I expanded my research and started to focus on the unrecognized abilites of the human body. In western society and medicine there is a strong separation of the perception of body and mind, if something like "mind" is perceived at all.  Only very slowly there is a change in the perception of the brain as a kind of computer and the body as a peripheral device. 
-Approaching the human as a logic and rational thing limits the possibilies of healing, self-awareness and contact to the self. The approach of Bart Hughes and the people around him is still interesting because it shifts the boundaries of the body and questions taboos. 
+Approaching the human as a logic and rational thing limits the possibilies of healing, self-awareness and contact to the self. The approach of Bart Huges and the people around him is still interesting because it shifts the boundaries of the body and questions taboos. 
 
 #### Psychedelics in therapeutical settings
 In Western cultures, psychedelic drugs have a negative image in society as a whole and are rather attributed to partying. 
@@ -116,7 +116,7 @@ When the mind is calm and happy, everything else falls into place. To reach the 
 
 
 ## Transcoding
-My aim or approach to the transcoding is for one, the processing and visualisation of the found material of Bart Hughes' theories. I also want to focus on the unrecognized abilities of the human body, whether it is survival with a hole in the skull, or getting high on endogenous drugs through breathing techniques. 
+My aim or approach to the transcoding is for one, the processing and visualisation of the found material of Bart Huges' theories. I also want to focus on the unrecognized abilities of the human body, whether it is survival with a hole in the skull, or getting high on endogenous drugs through breathing techniques. 
 
 ### Digitalisation of the book
 Only a very small ammount of the written book is digitalized. It was not published in large numbers and there is no source to digitally find this book. My aim was to make it accessable online. I wanted to keep the original feeling of a book, So I cleaned scanned pages of the book up and made the pages better readable.
@@ -154,43 +154,50 @@ showing the variety of possibilities to mind-expansion
 
 
 #### Aims
+Following the studies of Bart Huges, there are several methods to increase the amount of blood in the brain. Trepanation is supposed to be one, that is permanent, others can be experienced without extreme measures.
 I wanted to make something that one can experience. I would have loved to do this in a performance/a performed ritual that one can join and experience live. But with the new situation, I had to adjust a bit, so that still everyone who wants to can join, but not face to face.
 
 #### Methods
-Filming, Premiere Pro, 
+Filming, Premiere Pro, Breathwork
 
 #### Results
-A guided breathing-exercise. It's possible to use the video I made at any time to experience the breathwork-method and it stands for what I might have been doing if the school wasn't closed. 
+A video to transport the experience and make it accessable at any time. 
  
 ### Source Links
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.  
- 
+I used techniques and research that I found on [Systemanatura](https://www.systemanatura.com/en/research/).
+The Method in the video is a breathing technique from [Wim Hof](https://www.wimhofmethod.com/), as it is one that enriches the blood with a lot of oxygen which gives a quite quick effect on the body and brain.
 
 ## Reflection
 
-You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below. 
+
 
 ## Outcome:  Guided breathing ritual
 
-I wanted to make something that one can experience. I would have loved to do this in a performance/a performed ritual that one can join and experience live. But with the new situation, I had to adjust a bit, so that still everyone who wants to can join, but not face to face.
-
+I wanted to make something that one can experience. I would have loved to do this in a performance/a performed ritual that one can join and experience live. But with the new situation, I had to adjust a bit, so that still everyone who wants to can join, but not face to face. It's possible to use the video I made at any time to experience the breathwork-method and it stands for what I might have been doing if the school wasn't closed. 
 
 ### Outcome Link
 
+[Breathwork Video](https://www.dropbox.com/s/geqdcay0lm6bb9c/Breathing.mp4?dl=0)
 
 # Conclusion 
 You might have a nice conclusive observation to share at the end :) 
 
 ## Bibliography
-Of course, as with all research work please include a good bibliography with links, and any references that were used or might give additional depth to the work. 
 
 <a name="footnote-1">**[1]**</a>: An illustrated history of trepanation (2008), https://scienceblogs.com/neurophilosophy/2008/01/24/an-illustrated-history-of-trep
-<a name="footnote-2">**[2]**</a>: Joey Mellen - The Psychedelic Science of Bart Hughes (2015) https://www.youtube.com/watch?v=XlCPuSlzBiU
+
+<a name="footnote-2">**[2]**</a>: Joey Mellen - The Psychedelic Science of Bart Huges (2015) https://www.youtube.com/watch?v=XlCPuSlzBiU
 
 <a name="footnote-3">**[3]**</a>: Christopher Turner, Like a hole in the head, the trepanation-state  http://cabinetmagazine.org/issues/28/turner.php
+
 <a name="footnote-4">**[4]**</a>: https://beckleyfoundation.org/amanda-feilding/
+
 <a name="footnote-5">**[5]**</a>: "The People With Holes In Their Heads" from "Eccentric Lives & Peculiar Notions", John Michell, (1999) http://www.ee0r.com/trepan.html
+
 <a name="footnote-6">**[6]**</a>: "Bore Hole", Joe Mellen, Strange Attractor Press (2015)
+
 <a name="footnote-7">**[7]**</a>: https://www.imperial.ac.uk/psychedelic-research-centre/research/
+
 <a name="footnote-8">**[8]**</a>: D. Erritzoe, L. Roseman, M. M. Nour, K. MacLean, M. Kaelen, D. J. Nutt, R. L. Carhart‐Harris, Effects of psilocybin therapy on personality structure (2018) https://onlinelibrary.wiley.com/doi/full/10.1111/acps.12904
+
 <a name="footnote-9">**[9]**</a>: Gregory Scott, Robin L Carhart-Harris, Psychedelics as a treatment for disorders of consciousness (2018) https://academic.oup.com/nc/article/2019/1/niz003/5475888
