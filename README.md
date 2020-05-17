@@ -177,8 +177,9 @@ The Method in the video is a breathing technique from [Wim Hof](https://www.wimh
 
 ## Reflection
 
-## Outcome:  Guided breathing ritual
+## Outcome
 
+#### Guided breathing ritual
 I wanted to make something that one can experience. I would have loved to do this in a performance/a performed ritual that one can join and experience live. But with the new situation, I had to adjust a bit, so that still everyone who wants to can join, but not face to face. It's possible to use the video I made at any time to experience the breathwork-method and it stands for what I might have been doing if the school wasn't closed. 
 
 ### Outcome Link
