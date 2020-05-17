@@ -125,7 +125,7 @@ Only a very small ammount of the written book is digitalized. It was not publish
 Photoshop, OCR
 
 #### Results
-[<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/gif/80924599-1f65f400-8d8a-11ea-8833-b68350c8b860.gif" width="50%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/pdf/Trepanation-TheCureOfPsychosisTextverbessert.txt)
+[<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/gif/80924599-1f65f400-8d8a-11ea-8833-b68350c8b860.gif" width="50%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/pdf/Trepanation-TheCureOfPsychosisTextverbessert.pdf)
 
 ## Transcoding 2
 ### New Cover Design
