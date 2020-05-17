@@ -148,7 +148,7 @@ showing the variety of possibilities to mind-expansion
 
 #### Results
 
- [<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster.jpg" width="20%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster.jpg) | [<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster2.jpg" width="20%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster2.jpg)
+ [<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster.jpg" width="30%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster.jpg) | [<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster2.jpg" width="30%">](https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/Poster2.jpg)
 
 ## Transcoding Tool
 
@@ -167,9 +167,6 @@ A video to transport the experience and make it accessable at any time.
 I used techniques and research that I found on [Systemanatura](https://www.systemanatura.com/en/research/).
 The Method in the video is a breathing technique from [Wim Hof](https://www.wimhofmethod.com/), as it is one that enriches the blood with a lot of oxygen which gives a quite quick effect on the body and brain.
 
-## Reflection
-
-
 
 ## Outcome:  Guided breathing ritual
 
@@ -180,7 +177,7 @@ I wanted to make something that one can experience. I would have loved to do thi
 [Breathwork Video](https://www.dropbox.com/s/geqdcay0lm6bb9c/Breathing.mp4?dl=0)
 
 # Conclusion 
-You might have a nice conclusive observation to share at the end :) 
+I'm  
 
 ## Bibliography
 
