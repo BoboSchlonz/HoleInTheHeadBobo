@@ -182,6 +182,7 @@ I used techniques and research that I found on [Systemanatura](https://www.syste
 The Method in the video is a breathing technique from [Wim Hof](https://www.wimhofmethod.com/), as it is one that enriches the blood with a lot of oxygen which gives a quite quick effect on the body and brain.
 
 ## Reflection
+I really enjoyed working with the material I found in the IISG and I also found it to be a valuable experience. Digging in the collection of this man was super interesting and like a time travel. In any case, working with the content from the archive showed me how important it is to archive and working with the found material was an interesting input on how to deal with existing material. It was also interesting for me to see how the view on certain topics has changed or not changed over the last 50 years. 
 
 ## Outcome
 
@@ -193,6 +194,7 @@ I wanted to make something that one can experience. I would have loved to do thi
 You can see the final outcome [here](https://www.dropbox.com/s/geqdcay0lm6bb9c/Breathing.mp4?dl=0)
 
 ## Conclusion
+soon
 
 ## Bibliography
 
