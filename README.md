@@ -150,7 +150,7 @@ InDesign, Photoshop
 ### Transcoding No. 3
 
 #### Poster 
-Showing the variety of possibilities to mind-expansion through a personality-type-style poster
+Showing the variety of possibilities to mind-expansion through a personality-test-style poster
 
 #### Tools
 Indesign, Illustrator
@@ -170,8 +170,14 @@ Filming, Premiere Pro, Breathwork
 
 #### Result
 A video to transport the experience and make it accessable at any time. 
+
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/screen1.png" width="30%"> | 
+ <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/screen2.png" width="30%"> | 
+
+ <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/screen3.png" width="30%"> | 
+ <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/screen4.png" width="30%"> | 
  
-### Source Link
+### Sources
 I used techniques and research that I found on [Systemanatura](https://www.systemanatura.com/en/research/).
 The Method in the video is a breathing technique from [Wim Hof](https://www.wimhofmethod.com/), as it is one that enriches the blood with a lot of oxygen which gives a quite quick effect on the body and brain.
 
@@ -184,7 +190,7 @@ I wanted to make something that one can experience. I would have loved to do thi
 
 ### Outcome Link
 
-[Breathwork Video](https://www.dropbox.com/s/geqdcay0lm6bb9c/Breathing.mp4?dl=0)
+You can see the final outcome [here](https://www.dropbox.com/s/geqdcay0lm6bb9c/Breathing.mp4?dl=0)
 
 ## Conclusion
 
