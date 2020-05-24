@@ -194,7 +194,7 @@ I wanted to make something that one can experience. I would have loved to do thi
 You can see the final outcome [here](https://www.dropbox.com/s/geqdcay0lm6bb9c/Breathing.mp4?dl=0)
 
 ## Conclusion
-soon
+I think that during the process and in the final outcome I shifted my focus more and more towards related topics around the orbit of trepanation and might have removed my result a bit from the artefact itself. But I also think that what I did and what my outcome is focussing on, is a development from the artefact. So in a way it maybe can be viewed as a mirror of what might be left of or developed from the ideas from the 70s.
 
 ## Bibliography
 
