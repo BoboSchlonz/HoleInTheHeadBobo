@@ -63,8 +63,9 @@ He said if he could start over, he would become a writer. At this point in life 
 His discoveries where never recognized in the profession. In that time, the the concept of expanded consciousness was unknown and not a subject that was studied. Huges had long been interested in trepanation as a method to overcome psychological problems and reach a higher level of consciousness. His theory was based on the concept that an infant's supposedly higher state of consciousness is related to its unsealed skull, which allows the brain to expand freely and thus the cerebral blood flow and metabolism. As we grow older, the bones of the skull grow together and the flow is restricted, additionally due to our upright posture. Huges successfully trepaned himself with an electric drill on 6 January 1965. He affirmed the beneficial effects were immediate: his consciousness was sharpened and his neuroses were overcome. 
 He began to preach about trepanation and started publishing documents about it. His first publication was a scroll, named "The Mechanism of Brainbloodvolume ('BBV')" (also known as "Homo Sapiens Correctus") in 1964. In this he explained his theory, that because of mans upright position, the sealed cranial sutures and the fact that blood is heavier than cerebrospinal fluid, the brailbloodvolume decreases. This leads to a slowed down brainmetabolism and diminishing of creativity, originality and youth. In his theory, trepanation could be used to enhance brain functionality by balancing the proportion of blood and cerebral spinal fluid. He also introduces several other methods to increase cerebral blood flow, such as jumping, the transition from a hot tub to a cold one, yoga headstand or the use of psychoactive drugs ("psychovitamins"), with Trepanation allowing a lasting increase in blood volume and restoring pulsation and metabolism as a result of increased cranial compliance. 
 The publication "Trepanation the cure for psychosis" which was publicated in 1970 was another collection if his ideas and a complete overview on how to expand ones mind through trepanation and how to prevent or treat psychosis with it.
-
-<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/scroll.jpg" width="15%"> | <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/hugesscroll.jpg" width="50%"> 
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/bart1.jpg"> 
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/bartdrill.jpg"> 
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/scroll2.jpg" width="15%"> | <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/scroll.jpg"> 
 
 
 #### Amanda Feilding
@@ -72,12 +73,12 @@ Amanda Feilding met Bart Huges in 1966 and he got her interested in trepanation.
 Over the years, she only showed the movie to small, selected audiences, as she is aware that this operation is dangerous and better performed by a doctor and has risks. The reason for filming the procedure was not to glamourize it, but to dissasociate herself from her body by treating the operation like an art project. 
 
 
-<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/heartbeat.jpg" width="50%"> 
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/heartbeat2.jpg"> 
 
 Amanda Feilding is still alive today and she is still active in the fields of drug research, psychoactive drugs and consciousness raising. In 1998 she founded the Foundation to Further Consciousness, later renamed to the Beckley Foundation, a non-profit foundation that initiates, leads and supports neuroscientific and clinical research on the effects of psychoactive substances on the brain and perception. She co-authored over 50 papers published in peer-reviewed journals. <sup>[[4]](#footnote-4)</sup> The central aim of her research is to find new treatment options for mental illnesses such as depression, anxiety and addiction, and to explore methods to increase well-being and creativity. 
 She stood for Parliament as an independent candidate in her local constituency of Chelsea, England in 1979 and 1983, campaigning on the sole platform that trepanation should be freely available on the National Health Service. 
 
-<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/cabinet_028_turner_christopher_001.jpg" width="50%"> 
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/amanda4.jpg"> 
 
 Feilding is a supporter of the procedure to this day, althogh she is open to doubt: *"If it is a placebo effect, I’d love to know, then one can just draw a line under that subject and see it as a kind of cultural artwork. I still have a burning ambition to discover what the truth is. But from my own experience I think there is a change, otherwise I wouldn’t be bothering about it forty years later.”* <sup>[[3]](#footnote-3)</sup> 
 
