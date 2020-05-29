@@ -61,9 +61,6 @@ Barts father always told him that he regretted practicing medicine, because his 
 He said if he could start over, he would become a writer. At this point in life Bart decided to give up within the profession and become an independent teacher and do his science on his own. He also never graduated because he failed an exam. 
 
 His discoveries where never recognized in the profession. In that time, the the concept of expanded consciousness was unknown and not a subject that was studied. Huges had long been interested in trepanation as a method to overcome psychological problems and reach a higher level of consciousness. His theory was based on the concept that an infant's supposedly higher state of consciousness is related to its unsealed skull, which allows the brain to expand freely and thus the cerebral blood flow and metabolism. As we grow older, the bones of the skull grow together and the flow is restricted, additionally due to our upright posture. Huges successfully trepaned himself with an electric drill on 6 January 1965. He affirmed the beneficial effects were immediate: his consciousness was sharpened and his neuroses were overcome. 
-
-<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/huges-trepanation1b-219x300.jpg" width="35%"> 
-
 He began to preach about trepanation and started publishing documents about it. His first publication was a scroll, named "The Mechanism of Brainbloodvolume ('BBV')" (also known as "Homo Sapiens Correctus") in 1964. In this he explained his theory, that because of mans upright position, the sealed cranial sutures and the fact that blood is heavier than cerebrospinal fluid, the brailbloodvolume decreases. This leads to a slowed down brainmetabolism and diminishing of creativity, originality and youth. In his theory, trepanation could be used to enhance brain functionality by balancing the proportion of blood and cerebral spinal fluid. He also introduces several other methods to increase cerebral blood flow, such as jumping, the transition from a hot tub to a cold one, yoga headstand or the use of psychoactive drugs ("psychovitamins"), with Trepanation allowing a lasting increase in blood volume and restoring pulsation and metabolism as a result of increased cranial compliance. 
 The publication "Trepanation the cure for psychosis" which was publicated in 1970 was another collection if his ideas and a complete overview on how to expand ones mind through trepanation and how to prevent or treat psychosis with it.
 
@@ -171,12 +168,6 @@ Filming, Premiere Pro, Breathwork
 #### Result
 A video to transport the experience and make it accessable at any time. 
 
-<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/screen1.png" width="30%"> | 
- <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/screen2.png" width="30%"> | 
-
- <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/screen3.png" width="30%"> | 
- <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/screen4.png" width="30%"> | 
- 
 ### Sources
 I used techniques and research that I found on [Systemanatura](https://www.systemanatura.com/en/research/).
 The Method in the video is a breathing technique from [Wim Hof](https://www.wimhofmethod.com/), as it is one that enriches the blood with a lot of oxygen which gives a quite quick effect on the body and brain.
@@ -188,6 +179,13 @@ I really enjoyed working with the material I found in the IISG and I also found 
 
 #### Guided breathing ritual
 I wanted to make something that one can experience. I would have loved to do this in a performance/a performed ritual that one can join and experience live. But with the new situation, I had to adjust a bit, so that still everyone who wants to can join, but not face to face. It's possible to use the video I made at any time to experience the breathwork-method and it stands for what I might have been doing if the school wasn't closed. 
+
+<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/screen1.png" width="30%"> | 
+ <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/screen2.png" width="30%"> | 
+
+ <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/screen3.png" width="30%"> | 
+ <img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/screen4.png" width="30%"> | 
+ 
 
 ### Outcome Link
 
