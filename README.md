@@ -1,6 +1,4 @@
 [<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/cover2.jpg" width="100%">](#)
-[<img src="https://github.com/BoboSchlonz/HoleInTheHeadBobo/blob/master/documentation/images/cover3.jpg" width="100%">](#)
-
 # Hole in the Head
 
 ### Table of Contents
